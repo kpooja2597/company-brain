@@ -1,0 +1,501 @@
+ticket_id,customer_id,category,priority,status,created_date,resolved_date,resolution_days,satisfaction_score,subject
+TKT00001,CUST0062,Onboarding,Medium,Open,2024-09-11,,,,Human young office no.
+TKT00002,CUST0118,Onboarding,Critical,Closed,2024-05-10,2024-05-11,1.0,5.0,Central he certain able.
+TKT00003,CUST0041,Performance,Low,Closed,2024-02-07,2024-02-22,15.0,4.0,World step provide add more.
+TKT00004,CUST0177,Feature Request,Critical,Closed,2024-05-08,2024-05-23,15.0,4.0,Stay factor meeting case.
+TKT00005,CUST0028,Performance,Low,Resolved,2024-05-01,2024-05-14,13.0,3.0,Television everybody article security on teacher.
+TKT00006,CUST0006,Performance,High,In Progress,2024-12-03,,,,Product among support claim such subject late.
+TKT00007,CUST0200,Billing,High,Resolved,2024-01-26,2024-02-15,20.0,2.0,Form adult walk hand specific race night.
+TKT00008,CUST0156,Performance,Low,Resolved,2024-06-29,2024-07-07,8.0,2.0,Building wife same.
+TKT00009,CUST0161,Onboarding,Low,In Progress,2024-02-19,,,,Spring clearly still on age task.
+TKT00010,CUST0094,Billing,High,Closed,2024-03-08,2024-03-11,3.0,2.0,News look either fight almost tonight address.
+TKT00011,CUST0052,Billing,Medium,Closed,2024-03-08,2024-03-26,18.0,3.0,No way total lay serve.
+TKT00012,CUST0043,Billing,High,Closed,2024-05-11,2024-05-27,16.0,3.0,Career red still fact great water police ask.
+TKT00013,CUST0030,Feature Request,High,Open,2024-08-27,,,,Spring near war everything if middle American.
+TKT00014,CUST0186,Performance,Medium,Closed,2024-12-11,2024-12-24,13.0,4.0,Agent various possible positive letter scientist put.
+TKT00015,CUST0004,Billing,Medium,Open,2024-05-15,,,,Service note clearly it she ability.
+TKT00016,CUST0173,Integration,Critical,Resolved,2024-05-14,2024-06-02,19.0,1.0,Fish offer throw bad bar.
+TKT00017,CUST0173,Performance,Medium,Open,2024-04-29,,,,Music bed almost huge religious individual she suffer.
+TKT00018,CUST0157,Onboarding,Critical,Resolved,2024-04-23,2024-04-26,3.0,3.0,Sit economic nor radio happen game ability.
+TKT00019,CUST0167,Bug,Medium,Open,2024-07-28,,,,Moment analysis man all present article.
+TKT00020,CUST0127,Performance,Low,In Progress,2024-02-29,,,,Tend yet issue down bed someone PM.
+TKT00021,CUST0117,Integration,High,Resolved,2024-07-08,2024-07-26,18.0,4.0,Major himself face let.
+TKT00022,CUST0168,Billing,Low,Resolved,2024-02-20,2024-03-07,16.0,3.0,Opportunity certainly southern wife keep.
+TKT00023,CUST0056,Billing,Low,Closed,2024-08-15,2024-08-30,15.0,3.0,Brother allow animal today agreement mean child.
+TKT00024,CUST0140,Billing,Low,Open,2024-11-26,,,,Agent idea story serve.
+TKT00025,CUST0032,Integration,Medium,Resolved,2024-08-20,2024-08-23,3.0,1.0,Member model stand let director international officer actually.
+TKT00026,CUST0013,Performance,Low,Closed,2024-06-19,2024-06-27,8.0,5.0,Fear argue baby suggest tonight well.
+TKT00027,CUST0054,Feature Request,Medium,Closed,2024-10-27,2024-11-03,7.0,2.0,Staff expect party social the heart.
+TKT00028,CUST0153,Feature Request,Critical,Closed,2024-01-02,2024-01-11,9.0,5.0,Visit window do note here.
+TKT00029,CUST0065,Bug,Low,Resolved,2024-03-30,2024-04-03,4.0,3.0,Analysis on focus world.
+TKT00030,CUST0061,Billing,Low,Open,2024-10-28,,,,Goal wrong they although style reach knowledge.
+TKT00031,CUST0190,Bug,Medium,Open,2024-08-03,,,,Front western suffer.
+TKT00032,CUST0200,Onboarding,Medium,Resolved,2024-07-04,2024-07-21,17.0,5.0,Performance pay herself though start edge.
+TKT00033,CUST0012,Integration,Critical,In Progress,2024-12-03,,,,Democrat wear improve tree direction.
+TKT00034,CUST0016,Bug,Medium,Resolved,2024-09-02,2024-09-15,13.0,4.0,Hard both walk use or.
+TKT00035,CUST0019,Bug,Low,Resolved,2024-02-11,2024-02-22,11.0,5.0,Your appear serious create.
+TKT00036,CUST0163,Onboarding,Critical,Resolved,2024-10-26,2024-11-13,18.0,5.0,Skin seven program seek east seven.
+TKT00037,CUST0076,Bug,High,Resolved,2024-08-20,2024-09-06,17.0,1.0,Enter budget case determine avoid production.
+TKT00038,CUST0168,Feature Request,Medium,Resolved,2024-11-29,2024-12-17,18.0,2.0,Appear wear opportunity land read several.
+TKT00039,CUST0106,Integration,Low,Resolved,2024-06-22,2024-07-07,15.0,4.0,Space require street report shake.
+TKT00040,CUST0081,Feature Request,Medium,Resolved,2024-12-06,2024-12-15,9.0,4.0,Mrs impact democratic.
+TKT00041,CUST0018,Bug,High,Open,2024-02-16,,,,Economic school away food choice surface environmental.
+TKT00042,CUST0096,Performance,Medium,Open,2024-03-07,,,,Best current win though him what.
+TKT00043,CUST0172,Integration,Critical,Resolved,2024-03-03,2024-03-17,14.0,4.0,Company job prove professional whether.
+TKT00044,CUST0185,Billing,Low,Resolved,2024-01-27,2024-02-06,10.0,5.0,Indicate stop thank culture away.
+TKT00045,CUST0055,Bug,Medium,In Progress,2024-03-20,,,,Finally worker force.
+TKT00046,CUST0143,Performance,Low,Closed,2024-07-07,2024-07-11,4.0,4.0,Room off hundred authority heavy floor.
+TKT00047,CUST0144,Performance,Low,Resolved,2024-11-14,2024-12-04,20.0,3.0,Pressure past instead impact soldier authority Democrat particularly.
+TKT00048,CUST0008,Billing,Critical,Resolved,2024-04-02,2024-04-11,9.0,3.0,Parent couple consider.
+TKT00049,CUST0002,Onboarding,Low,Resolved,2024-04-02,2024-04-07,5.0,1.0,Sing there Republican beyond address.
+TKT00050,CUST0024,Onboarding,Medium,Resolved,2024-09-28,2024-10-05,7.0,3.0,Natural street eight say second.
+TKT00051,CUST0080,Bug,Low,Resolved,2024-06-15,2024-07-04,19.0,5.0,Control think step bad kind low.
+TKT00052,CUST0013,Integration,Medium,In Progress,2024-12-11,,,,Right current officer eye pick.
+TKT00053,CUST0156,Performance,Low,In Progress,2024-08-14,,,,Professional among safe once buy physical car.
+TKT00054,CUST0111,Performance,Medium,Resolved,2024-02-26,2024-03-07,10.0,3.0,Apply family institution without.
+TKT00055,CUST0012,Bug,Low,Closed,2024-04-22,2024-05-05,13.0,3.0,Stock fly recent become someone decade red safe.
+TKT00056,CUST0055,Bug,Low,In Progress,2024-03-11,,,,National much interesting certainly only room.
+TKT00057,CUST0192,Performance,High,Open,2024-08-08,,,,Military candidate each heart seven inside.
+TKT00058,CUST0129,Integration,Low,Open,2024-10-13,,,,Whatever activity model along can.
+TKT00059,CUST0005,Performance,Medium,Closed,2024-08-23,2024-08-26,3.0,4.0,Business or available sure oil firm.
+TKT00060,CUST0182,Onboarding,Low,In Progress,2024-11-23,,,,Chair happy tend base area debate.
+TKT00061,CUST0084,Integration,Critical,Resolved,2024-03-28,2024-04-17,20.0,1.0,Should able federal black first easy morning.
+TKT00062,CUST0112,Onboarding,Medium,Resolved,2024-02-24,2024-03-03,8.0,4.0,Message end popular raise high head.
+TKT00063,CUST0080,Feature Request,Low,In Progress,2024-06-22,,,,Dog structure able candidate partner high tough.
+TKT00064,CUST0163,Billing,Medium,Resolved,2024-02-28,2024-03-16,17.0,2.0,Cause finish purpose morning future.
+TKT00065,CUST0061,Feature Request,Medium,In Progress,2024-02-22,,,,Company court several data near difference.
+TKT00066,CUST0195,Integration,Medium,In Progress,2024-12-01,,,,Under be third child maybe.
+TKT00067,CUST0194,Performance,Medium,Resolved,2024-10-15,2024-11-03,19.0,5.0,Common force recent own who green.
+TKT00068,CUST0083,Bug,Medium,In Progress,2024-11-17,,,,Especially apply Republican agency final news.
+TKT00069,CUST0162,Billing,Medium,Resolved,2024-06-04,2024-06-13,9.0,3.0,Research argue place none any large stock partner.
+TKT00070,CUST0119,Billing,Low,Open,2024-08-19,,,,Age own part moment.
+TKT00071,CUST0024,Onboarding,Medium,Resolved,2024-11-10,2024-11-30,20.0,1.0,Beat gas many western.
+TKT00072,CUST0116,Onboarding,Medium,In Progress,2024-10-19,,,,Require mind stage hospital positive place bring.
+TKT00073,CUST0016,Billing,Critical,Closed,2024-08-18,2024-08-22,4.0,1.0,Term not third food crime thought.
+TKT00074,CUST0130,Integration,Medium,Open,2024-11-26,,,,Drive leave character parent.
+TKT00075,CUST0113,Billing,Medium,Resolved,2024-09-25,2024-10-12,17.0,3.0,Above time success family prepare.
+TKT00076,CUST0100,Bug,High,Resolved,2024-07-28,2024-08-08,11.0,3.0,Discussion so trial this behind candidate hear.
+TKT00077,CUST0017,Onboarding,Low,Resolved,2024-06-17,2024-06-21,4.0,5.0,White certainly appear culture soon respond anything.
+TKT00078,CUST0039,Feature Request,Critical,Resolved,2024-06-19,2024-06-22,3.0,3.0,State budget finish tree itself.
+TKT00079,CUST0168,Integration,Critical,Open,2024-12-23,,,,Affect possible available tonight relationship.
+TKT00080,CUST0080,Billing,High,Resolved,2024-10-13,2024-10-26,13.0,5.0,Fund Mrs lose fill home herself agent.
+TKT00081,CUST0024,Bug,Medium,Resolved,2024-11-26,2024-12-10,14.0,2.0,Listen nature present present.
+TKT00082,CUST0055,Feature Request,Low,In Progress,2024-06-23,,,,Letter how television reflect trade thus.
+TKT00083,CUST0076,Integration,High,Closed,2024-02-21,2024-03-09,17.0,1.0,Represent peace else over feeling politics.
+TKT00084,CUST0170,Onboarding,Low,Open,2024-06-21,,,,War store move.
+TKT00085,CUST0047,Feature Request,High,Closed,2024-12-20,2025-01-09,20.0,1.0,Skill and although class apply.
+TKT00086,CUST0106,Performance,Low,Closed,2024-07-05,2024-07-13,8.0,4.0,Right simply myself glass.
+TKT00087,CUST0060,Onboarding,Critical,In Progress,2024-09-30,,,,Guess professor expert face conference.
+TKT00088,CUST0050,Onboarding,High,Closed,2024-07-07,2024-07-26,19.0,4.0,Choice lead nature they.
+TKT00089,CUST0129,Feature Request,High,Closed,2024-09-27,2024-10-11,14.0,2.0,Eye majority above check town.
+TKT00090,CUST0065,Performance,Critical,Closed,2024-01-27,2024-02-12,16.0,5.0,Benefit market whether article agreement accept listen.
+TKT00091,CUST0032,Billing,Medium,Closed,2024-05-25,2024-05-28,3.0,5.0,I final factor senior.
+TKT00092,CUST0038,Feature Request,High,Closed,2024-08-11,2024-08-14,3.0,3.0,Office improve cultural agreement agency appear structure.
+TKT00093,CUST0007,Billing,Low,Resolved,2024-07-31,2024-08-02,2.0,1.0,Raise simple oil.
+TKT00094,CUST0096,Bug,High,In Progress,2024-04-24,,,,Husband face man as somebody.
+TKT00095,CUST0167,Billing,Critical,Open,2024-06-20,,,,Sort music attention skill sound kitchen.
+TKT00096,CUST0121,Onboarding,Medium,Closed,2024-12-22,2024-12-27,5.0,1.0,Common great character.
+TKT00097,CUST0021,Feature Request,Medium,In Progress,2024-01-10,,,,Write charge decision control.
+TKT00098,CUST0187,Billing,Low,Resolved,2024-11-07,2024-11-24,17.0,1.0,Article coach officer.
+TKT00099,CUST0013,Performance,Medium,Resolved,2024-05-02,2024-05-16,14.0,1.0,Easy recently face station wear wish century.
+TKT00100,CUST0128,Performance,Medium,Open,2024-11-01,,,,Which coach plan.
+TKT00101,CUST0184,Performance,Medium,Resolved,2024-03-14,2024-03-24,10.0,5.0,Improve interest seem wall fill like.
+TKT00102,CUST0107,Billing,Low,Resolved,2024-04-05,2024-04-08,3.0,5.0,Table explain appear goal upon.
+TKT00103,CUST0140,Onboarding,High,Resolved,2024-09-16,2024-10-03,17.0,1.0,Half address address.
+TKT00104,CUST0163,Bug,Medium,In Progress,2024-07-17,,,,Stand fear conference own owner.
+TKT00105,CUST0018,Integration,Low,Resolved,2024-06-25,2024-07-03,8.0,5.0,Center real fact language throw travel.
+TKT00106,CUST0189,Performance,Medium,Open,2024-06-19,,,,Maybe upon economy every just those.
+TKT00107,CUST0165,Onboarding,Medium,Closed,2024-03-30,2024-04-14,15.0,2.0,Summer agency large reach it half discover.
+TKT00108,CUST0017,Bug,High,In Progress,2024-08-22,,,,Issue task then away.
+TKT00109,CUST0011,Performance,Medium,Resolved,2024-06-10,2024-06-20,10.0,1.0,Act give clearly per financial style evidence.
+TKT00110,CUST0193,Bug,High,In Progress,2024-11-27,,,,Whole better five simple skill training everything.
+TKT00111,CUST0085,Onboarding,High,Closed,2024-05-19,2024-05-23,4.0,4.0,Commercial anyone hard produce yet.
+TKT00112,CUST0099,Onboarding,Medium,Resolved,2024-06-22,2024-06-28,6.0,5.0,Indicate teacher become seem.
+TKT00113,CUST0069,Performance,Critical,Open,2024-02-12,,,,To return step building throughout story medical.
+TKT00114,CUST0047,Bug,Medium,In Progress,2024-10-06,,,,Democrat today attention service save special.
+TKT00115,CUST0076,Onboarding,Low,Resolved,2024-06-05,2024-06-20,15.0,4.0,Situation main since way ok loss arm.
+TKT00116,CUST0090,Billing,Medium,Resolved,2024-08-16,2024-08-18,2.0,4.0,Artist save among.
+TKT00117,CUST0071,Integration,Medium,Open,2024-11-23,,,,Why personal door brother much challenge.
+TKT00118,CUST0132,Feature Request,High,Closed,2024-12-13,2024-12-19,6.0,4.0,Station under value ask.
+TKT00119,CUST0009,Integration,Medium,In Progress,2024-03-05,,,,Beat attack physical behavior design woman.
+TKT00120,CUST0099,Integration,Medium,Resolved,2024-10-17,2024-10-19,2.0,3.0,Alone we plant drop card story continue.
+TKT00121,CUST0096,Performance,Medium,Resolved,2024-08-15,2024-08-18,3.0,3.0,Mean law firm generation sell allow gun.
+TKT00122,CUST0167,Bug,High,Closed,2024-05-22,2024-05-30,8.0,4.0,Usually close past art discover.
+TKT00123,CUST0133,Billing,High,Open,2024-07-17,,,,Large reflect thing paper degree.
+TKT00124,CUST0055,Onboarding,Low,Resolved,2024-11-09,2024-11-19,10.0,2.0,Society easy large option hear role.
+TKT00125,CUST0019,Onboarding,Critical,Closed,2024-08-19,2024-08-25,6.0,3.0,Fall stock paper address clear yes.
+TKT00126,CUST0171,Billing,High,Resolved,2024-06-26,2024-06-29,3.0,2.0,Could police resource instead woman staff approach.
+TKT00127,CUST0183,Performance,Low,Closed,2024-12-29,2025-01-04,6.0,2.0,Hour democratic simple.
+TKT00128,CUST0036,Performance,Medium,Open,2024-05-01,,,,Nice suddenly light push.
+TKT00129,CUST0120,Bug,Low,Resolved,2024-10-09,2024-10-14,5.0,4.0,Partner someone assume total fly on.
+TKT00130,CUST0184,Onboarding,High,Resolved,2024-09-02,2024-09-19,17.0,1.0,Cultural western individual drug military young city involve.
+TKT00131,CUST0033,Integration,Medium,Resolved,2024-06-11,2024-06-14,3.0,2.0,Fire five sound character could lose.
+TKT00132,CUST0200,Feature Request,Medium,In Progress,2024-10-09,,,,Eat understand build method.
+TKT00133,CUST0015,Feature Request,Low,In Progress,2024-03-04,,,,Head report into there Congress site scientist.
+TKT00134,CUST0182,Performance,High,Closed,2024-04-25,2024-05-07,12.0,1.0,Cell pressure person end stuff senior box too.
+TKT00135,CUST0065,Integration,Medium,In Progress,2024-04-10,,,,Especially say your project.
+TKT00136,CUST0137,Performance,Critical,Resolved,2024-02-17,2024-03-05,17.0,2.0,Become thought thank under seat from network race.
+TKT00137,CUST0044,Performance,Medium,Resolved,2024-12-03,2024-12-23,20.0,5.0,Collection collection perform raise.
+TKT00138,CUST0011,Integration,High,Open,2024-01-15,,,,Drug student side especially ability land.
+TKT00139,CUST0068,Onboarding,Medium,Closed,2024-11-29,2024-12-06,7.0,1.0,Nearly nation player without across themselves.
+TKT00140,CUST0128,Billing,Medium,In Progress,2024-11-17,,,,Senior the cold.
+TKT00141,CUST0176,Integration,Low,Resolved,2024-07-26,2024-08-05,10.0,4.0,Traditional method move artist central.
+TKT00142,CUST0107,Performance,Low,In Progress,2024-09-04,,,,Food support part nation appear.
+TKT00143,CUST0184,Feature Request,High,Closed,2024-06-12,2024-06-24,12.0,5.0,Beautiful item truth herself learn describe.
+TKT00144,CUST0144,Bug,Low,In Progress,2024-02-24,,,,Across himself high last rather tend.
+TKT00145,CUST0064,Onboarding,High,Open,2024-03-13,,,,Finish gas guess as section stop trouble tell.
+TKT00146,CUST0108,Performance,High,Closed,2024-05-07,2024-05-13,6.0,2.0,Police right reflect.
+TKT00147,CUST0196,Onboarding,Medium,Closed,2024-03-22,2024-04-07,16.0,3.0,Skill machine item south cut.
+TKT00148,CUST0128,Performance,Medium,Closed,2024-01-12,2024-01-15,3.0,2.0,Her sometimes identify age defense which teach.
+TKT00149,CUST0056,Billing,Medium,Open,2024-10-25,,,,System born apply glass training red upon.
+TKT00150,CUST0168,Bug,High,In Progress,2024-12-10,,,,Prevent police throw late family will buy.
+TKT00151,CUST0111,Onboarding,Medium,Resolved,2024-03-09,2024-03-18,9.0,4.0,Leg environment organization.
+TKT00152,CUST0014,Performance,Low,In Progress,2024-10-18,,,,Mission prevent important strong.
+TKT00153,CUST0099,Billing,High,Closed,2024-09-15,2024-09-30,15.0,5.0,Leave across stand important western.
+TKT00154,CUST0175,Bug,Medium,Open,2024-11-08,,,,Measure ground argue later.
+TKT00155,CUST0087,Feature Request,Medium,Closed,2024-10-12,2024-10-24,12.0,4.0,Under up of.
+TKT00156,CUST0129,Integration,Medium,Open,2024-01-21,,,,Investment knowledge off others hard up.
+TKT00157,CUST0122,Performance,Low,Open,2024-09-22,,,,Strategy seem environmental affect cup star.
+TKT00158,CUST0157,Performance,High,Resolved,2024-06-12,2024-06-18,6.0,3.0,Official section others.
+TKT00159,CUST0152,Performance,Medium,Closed,2024-06-21,2024-07-08,17.0,5.0,Who yet food rather themselves.
+TKT00160,CUST0077,Integration,Low,Resolved,2024-08-31,2024-09-01,1.0,4.0,Another choose high effort into ok federal sign.
+TKT00161,CUST0150,Billing,Critical,Resolved,2024-06-06,2024-06-07,1.0,5.0,Wish though model son lose hospital.
+TKT00162,CUST0148,Feature Request,Medium,Resolved,2024-04-26,2024-04-28,2.0,5.0,Evidence between probably best gas follow reflect.
+TKT00163,CUST0199,Feature Request,Low,Closed,2024-07-13,2024-07-18,5.0,1.0,Affect direction project deal poor.
+TKT00164,CUST0049,Feature Request,Medium,In Progress,2024-01-10,,,,Yourself local floor factor adult.
+TKT00165,CUST0053,Onboarding,High,Closed,2024-07-29,2024-08-15,17.0,1.0,Garden us perhaps still after organization.
+TKT00166,CUST0181,Billing,Critical,In Progress,2024-03-11,,,,Ten picture home decision must.
+TKT00167,CUST0123,Feature Request,Medium,In Progress,2024-09-26,,,,Land change during choice.
+TKT00168,CUST0137,Integration,Medium,Resolved,2024-06-24,2024-07-12,18.0,3.0,But property ground within PM.
+TKT00169,CUST0157,Billing,Medium,Closed,2024-09-04,2024-09-11,7.0,2.0,Within soon may her for.
+TKT00170,CUST0077,Onboarding,Medium,Resolved,2024-05-27,2024-06-03,7.0,3.0,Front last himself sell need red.
+TKT00171,CUST0144,Integration,Medium,Open,2024-05-20,,,,Throw theory model woman so drug.
+TKT00172,CUST0102,Billing,Critical,In Progress,2024-06-25,,,,Action cover scientist ability.
+TKT00173,CUST0021,Integration,Medium,Resolved,2024-06-26,2024-07-11,15.0,2.0,Very five manager.
+TKT00174,CUST0138,Feature Request,Low,Resolved,2024-05-18,2024-06-05,18.0,5.0,Series suggest second car ago pick interesting.
+TKT00175,CUST0062,Performance,Low,Resolved,2024-05-04,2024-05-06,2.0,2.0,Make something guess view.
+TKT00176,CUST0014,Onboarding,Low,In Progress,2024-02-21,,,,Not return subject.
+TKT00177,CUST0198,Feature Request,Medium,Closed,2024-03-11,2024-03-12,1.0,4.0,Professional past door ten month.
+TKT00178,CUST0123,Billing,Medium,Closed,2024-11-29,2024-12-06,7.0,1.0,Current run site develop key together practice.
+TKT00179,CUST0197,Integration,High,In Progress,2024-02-15,,,,While student trade both allow head.
+TKT00180,CUST0010,Feature Request,Critical,Closed,2024-03-30,2024-04-13,14.0,1.0,Shake play though which experience.
+TKT00181,CUST0102,Billing,High,Closed,2024-09-10,2024-09-16,6.0,1.0,Move they well free red matter team teach.
+TKT00182,CUST0077,Billing,Low,Open,2024-10-17,,,,Dark back yes difference read answer.
+TKT00183,CUST0165,Feature Request,High,Resolved,2024-10-05,2024-10-22,17.0,4.0,Offer son heavy stand white.
+TKT00184,CUST0070,Integration,Medium,In Progress,2024-04-08,,,,Out money fund.
+TKT00185,CUST0066,Billing,Medium,Resolved,2024-04-05,2024-04-06,1.0,2.0,May newspaper source.
+TKT00186,CUST0045,Performance,Medium,Closed,2024-11-08,2024-11-21,13.0,4.0,Poor assume cause begin.
+TKT00187,CUST0172,Onboarding,Medium,Closed,2024-02-18,2024-02-24,6.0,2.0,Discuss anyone forget social off TV.
+TKT00188,CUST0002,Billing,Critical,In Progress,2024-05-13,,,,Each town someone art.
+TKT00189,CUST0078,Integration,Medium,Open,2024-10-25,,,,Partner building around store.
+TKT00190,CUST0061,Feature Request,Medium,Resolved,2024-02-01,2024-02-05,4.0,5.0,Buy near key mother.
+TKT00191,CUST0181,Billing,Medium,Resolved,2024-06-08,2024-06-12,4.0,2.0,Build ago relationship family fall.
+TKT00192,CUST0057,Integration,Critical,In Progress,2024-03-09,,,,Than course new guy describe computer several.
+TKT00193,CUST0096,Performance,High,Closed,2024-07-31,2024-08-18,18.0,2.0,Family husband season agree ok none social.
+TKT00194,CUST0196,Bug,Medium,Closed,2024-05-06,2024-05-26,20.0,5.0,Continue for box upon.
+TKT00195,CUST0181,Bug,Low,Closed,2024-07-04,2024-07-07,3.0,5.0,Finally late firm measure try night local.
+TKT00196,CUST0130,Feature Request,Medium,Resolved,2024-04-13,2024-05-02,19.0,5.0,Treat there although vote key reflect.
+TKT00197,CUST0114,Onboarding,Low,Resolved,2024-02-29,2024-03-07,7.0,5.0,Indicate itself become type early.
+TKT00198,CUST0115,Onboarding,Medium,Open,2024-01-29,,,,Feel forget various.
+TKT00199,CUST0015,Billing,High,Resolved,2024-10-13,2024-10-28,15.0,4.0,Yes suddenly much office forward.
+TKT00200,CUST0066,Bug,Medium,Resolved,2024-01-02,2024-01-09,7.0,1.0,Sister staff girl remain drop.
+TKT00201,CUST0139,Onboarding,Low,Closed,2024-01-31,2024-02-03,3.0,4.0,Sell while plant wait reduce focus.
+TKT00202,CUST0047,Onboarding,Medium,Resolved,2024-03-10,2024-03-24,14.0,4.0,Suddenly its brother.
+TKT00203,CUST0097,Billing,Low,Open,2024-02-11,,,,Station like notice provide especially cut man plant.
+TKT00204,CUST0138,Feature Request,High,Open,2024-07-20,,,,Turn language new need girl later treat.
+TKT00205,CUST0194,Integration,Medium,Resolved,2024-01-12,2024-01-22,10.0,5.0,Shoulder wait when school stay side build.
+TKT00206,CUST0098,Feature Request,Low,Resolved,2024-04-27,2024-05-05,8.0,1.0,Want act account traditional move career dog.
+TKT00207,CUST0009,Bug,Low,Resolved,2024-12-04,2024-12-18,14.0,1.0,Under community create sometimes eye.
+TKT00208,CUST0026,Integration,High,Resolved,2024-10-31,2024-11-02,2.0,1.0,Support world design star.
+TKT00209,CUST0063,Performance,Low,Resolved,2024-01-23,2024-02-05,13.0,1.0,Exist feeling those total involve improve.
+TKT00210,CUST0036,Integration,Medium,In Progress,2024-09-14,,,,Outside team exist choice lead.
+TKT00211,CUST0148,Feature Request,Critical,In Progress,2024-11-02,,,,Over television make exist song.
+TKT00212,CUST0134,Bug,Medium,In Progress,2024-04-23,,,,Cup lot campaign trouble high team.
+TKT00213,CUST0152,Bug,Critical,Resolved,2024-03-30,2024-04-13,14.0,4.0,Store wait if mind lot forget.
+TKT00214,CUST0135,Billing,Medium,Resolved,2024-06-12,2024-06-26,14.0,5.0,Sister sense my our.
+TKT00215,CUST0122,Integration,Low,In Progress,2024-05-03,,,,Heart citizen early more environmental second develop.
+TKT00216,CUST0119,Onboarding,Medium,Resolved,2024-01-30,2024-02-17,18.0,2.0,Five century support final never officer.
+TKT00217,CUST0100,Integration,Low,In Progress,2024-05-04,,,,Trial me buy charge yeah decade.
+TKT00218,CUST0116,Feature Request,Low,Resolved,2024-07-08,2024-07-11,3.0,4.0,Owner million then walk.
+TKT00219,CUST0173,Bug,Low,Open,2024-11-05,,,,Decide ball woman treat.
+TKT00220,CUST0195,Feature Request,High,In Progress,2024-10-27,,,,Set behavior authority three manager pretty.
+TKT00221,CUST0086,Feature Request,Critical,In Progress,2024-06-04,,,,Environmental process control find time.
+TKT00222,CUST0031,Integration,Low,Resolved,2024-09-02,2024-09-10,8.0,2.0,Station example develop much.
+TKT00223,CUST0142,Performance,Medium,Resolved,2024-06-13,2024-06-23,10.0,3.0,Father mission save.
+TKT00224,CUST0067,Onboarding,Low,Closed,2024-07-03,2024-07-20,17.0,4.0,Finish stay cell face answer.
+TKT00225,CUST0195,Onboarding,Low,Resolved,2024-06-12,2024-06-19,7.0,2.0,Next method environment finish.
+TKT00226,CUST0190,Performance,Medium,In Progress,2024-03-15,,,,It early bring grow.
+TKT00227,CUST0107,Feature Request,Medium,In Progress,2024-05-31,,,,Believe above attack really.
+TKT00228,CUST0063,Integration,Medium,Resolved,2024-09-12,2024-09-30,18.0,4.0,Door organization land group.
+TKT00229,CUST0186,Integration,High,Resolved,2024-11-24,2024-12-10,16.0,2.0,Group expect watch who.
+TKT00230,CUST0036,Performance,Critical,In Progress,2024-10-06,,,,Environmental fly writer music matter.
+TKT00231,CUST0016,Bug,Critical,Closed,2024-09-25,2024-09-27,2.0,1.0,Card base spend deep.
+TKT00232,CUST0196,Integration,Low,Open,2024-01-04,,,,Various line like save themselves how evening.
+TKT00233,CUST0182,Onboarding,Medium,In Progress,2024-03-18,,,,Eat political energy maintain positive admit first too.
+TKT00234,CUST0159,Integration,Medium,Closed,2024-11-22,2024-12-12,20.0,1.0,Citizen management child must seat Congress woman why.
+TKT00235,CUST0137,Performance,High,Open,2024-10-09,,,,Raise whole turn skill free claim whether.
+TKT00236,CUST0138,Integration,Medium,Resolved,2024-05-26,2024-05-27,1.0,2.0,Year the mouth catch stand window wife.
+TKT00237,CUST0028,Feature Request,Medium,Open,2024-02-19,,,,Politics lawyer federal watch.
+TKT00238,CUST0065,Bug,Medium,Closed,2024-06-30,2024-07-09,9.0,4.0,Know write respond over by industry wide.
+TKT00239,CUST0118,Feature Request,Low,Closed,2024-10-16,2024-10-24,8.0,1.0,Open good hear place water painting performance.
+TKT00240,CUST0168,Onboarding,Medium,Open,2024-11-28,,,,Network culture somebody local glass security year.
+TKT00241,CUST0122,Bug,Medium,Resolved,2024-01-29,2024-01-30,1.0,4.0,Throughout big often song quickly others.
+TKT00242,CUST0166,Bug,High,Closed,2024-06-18,2024-07-07,19.0,1.0,Book national wife support year.
+TKT00243,CUST0059,Bug,Critical,Resolved,2024-04-18,2024-05-07,19.0,3.0,Surface truth break run others first individual.
+TKT00244,CUST0140,Billing,Low,In Progress,2024-10-15,,,,Grow detail share young economy off.
+TKT00245,CUST0054,Integration,High,Closed,2024-10-27,2024-11-01,5.0,1.0,Tough yet glass marriage water.
+TKT00246,CUST0077,Onboarding,Medium,In Progress,2024-03-24,,,,Sense wind through full.
+TKT00247,CUST0139,Feature Request,High,Closed,2024-06-18,2024-07-01,13.0,1.0,Each walk spring marriage really easy season.
+TKT00248,CUST0129,Feature Request,High,Open,2024-06-26,,,,Low listen debate account sure look very.
+TKT00249,CUST0088,Onboarding,Critical,Closed,2024-11-05,2024-11-25,20.0,3.0,Yeah poor law grow difference manager.
+TKT00250,CUST0008,Onboarding,Medium,Closed,2024-11-20,2024-11-29,9.0,3.0,Sometimes require learn skill college public.
+TKT00251,CUST0142,Performance,Medium,In Progress,2024-07-11,,,,Thing game career dinner happy.
+TKT00252,CUST0022,Integration,Low,Closed,2024-11-12,2024-11-22,10.0,3.0,More remain thought.
+TKT00253,CUST0040,Billing,Medium,Resolved,2024-07-13,2024-07-18,5.0,1.0,Perhaps maintain among school north.
+TKT00254,CUST0002,Billing,Low,Resolved,2024-06-06,2024-06-21,15.0,1.0,Finally story term child production option public.
+TKT00255,CUST0048,Performance,Medium,Resolved,2024-08-08,2024-08-23,15.0,1.0,Take story special grow day understand recently.
+TKT00256,CUST0023,Performance,High,Open,2024-06-30,,,,Wind result finish use fund support fine cup.
+TKT00257,CUST0099,Bug,High,Resolved,2024-01-07,2024-01-17,10.0,5.0,Born here really win.
+TKT00258,CUST0063,Onboarding,Low,In Progress,2024-10-19,,,,Pm finally improve hotel position.
+TKT00259,CUST0069,Bug,Low,Resolved,2024-06-03,2024-06-12,9.0,3.0,Statement factor professional beat article table activity commercial.
+TKT00260,CUST0108,Billing,Low,Closed,2024-06-02,2024-06-18,16.0,2.0,Keep participant four several name tough by.
+TKT00261,CUST0185,Feature Request,Medium,Resolved,2024-11-16,2024-12-02,16.0,2.0,Today individual himself compare serious.
+TKT00262,CUST0078,Performance,Medium,In Progress,2024-01-04,,,,Different we hospital rock according.
+TKT00263,CUST0085,Integration,Critical,Resolved,2024-08-13,2024-08-24,11.0,2.0,Population let nature name.
+TKT00264,CUST0077,Feature Request,Medium,Closed,2024-06-13,2024-07-03,20.0,2.0,Modern series religious article.
+TKT00265,CUST0102,Integration,Medium,Resolved,2024-06-12,2024-06-22,10.0,5.0,Possible reflect side.
+TKT00266,CUST0063,Onboarding,Medium,In Progress,2024-06-15,,,,Prepare move over food summer arm green.
+TKT00267,CUST0145,Feature Request,Medium,Closed,2024-04-12,2024-05-01,19.0,5.0,Model former computer open.
+TKT00268,CUST0007,Billing,High,Resolved,2024-08-24,2024-08-31,7.0,1.0,Must sort history final might beat.
+TKT00269,CUST0105,Billing,Low,Open,2024-12-10,,,,Particularly approach data much down challenge specific.
+TKT00270,CUST0169,Bug,Medium,Closed,2024-03-19,2024-04-02,14.0,5.0,New available tree ok usually manager.
+TKT00271,CUST0123,Integration,Medium,Resolved,2024-10-25,2024-11-07,13.0,1.0,Personal forget though enter economic value other bit.
+TKT00272,CUST0093,Bug,Low,Resolved,2024-12-25,2025-01-12,18.0,2.0,Impact where actually skill economy side.
+TKT00273,CUST0169,Performance,Low,In Progress,2024-12-06,,,,Forward where relate human number different.
+TKT00274,CUST0166,Billing,Critical,Closed,2024-12-12,2024-12-25,13.0,4.0,Land poor area admit address building.
+TKT00275,CUST0028,Performance,High,In Progress,2024-01-06,,,,Prepare phone large east.
+TKT00276,CUST0143,Billing,Medium,In Progress,2024-10-24,,,,Attack difference hold play charge speak.
+TKT00277,CUST0198,Feature Request,Medium,Resolved,2024-12-13,2025-01-01,19.0,1.0,Join late laugh month wall.
+TKT00278,CUST0124,Bug,Low,Resolved,2024-02-23,2024-03-04,10.0,2.0,Decide about with official.
+TKT00279,CUST0090,Feature Request,Medium,Resolved,2024-06-08,2024-06-19,11.0,3.0,Social listen total year involve final.
+TKT00280,CUST0122,Onboarding,Medium,Resolved,2024-02-19,2024-03-05,15.0,3.0,Pm picture clearly.
+TKT00281,CUST0012,Billing,Medium,Open,2024-12-29,,,,Sign growth level out hit top.
+TKT00282,CUST0174,Performance,Low,Resolved,2024-03-25,2024-04-02,8.0,5.0,Along customer clear soldier.
+TKT00283,CUST0110,Integration,Low,Closed,2024-08-24,2024-09-01,8.0,4.0,Community north at could cultural keep size.
+TKT00284,CUST0102,Onboarding,Medium,Closed,2024-01-15,2024-02-04,20.0,4.0,Case moment hospital star.
+TKT00285,CUST0002,Integration,High,In Progress,2024-12-26,,,,Who voice spring.
+TKT00286,CUST0017,Performance,Low,Closed,2024-10-22,2024-10-26,4.0,3.0,Their couple section head couple music most.
+TKT00287,CUST0051,Onboarding,Medium,In Progress,2024-08-22,,,,Section trade heart budget result him draw.
+TKT00288,CUST0164,Onboarding,Medium,Resolved,2024-06-09,2024-06-29,20.0,3.0,Prepare newspaper table bed season news.
+TKT00289,CUST0091,Integration,High,In Progress,2024-08-22,,,,Good someone us cover detail few.
+TKT00290,CUST0077,Feature Request,Medium,Open,2024-11-10,,,,End senior wife agency call move.
+TKT00291,CUST0062,Integration,Low,In Progress,2024-06-05,,,,Base sell election by practice benefit.
+TKT00292,CUST0100,Onboarding,Medium,Open,2024-08-02,,,,Program ready new red pay blood.
+TKT00293,CUST0125,Integration,Critical,Resolved,2024-11-21,2024-12-09,18.0,2.0,Center finally director loss health production sit.
+TKT00294,CUST0143,Feature Request,Medium,In Progress,2024-03-26,,,,Tree coach common five rock.
+TKT00295,CUST0116,Bug,Medium,Closed,2024-11-13,2024-11-15,2.0,2.0,Never prove service share on forget.
+TKT00296,CUST0099,Onboarding,Medium,Resolved,2024-10-14,2024-10-31,17.0,4.0,Kitchen third home approach process through probably.
+TKT00297,CUST0182,Performance,Low,In Progress,2024-08-15,,,,Past attack idea site record.
+TKT00298,CUST0195,Feature Request,Medium,Open,2024-04-22,,,,Take unit become film.
+TKT00299,CUST0044,Onboarding,Medium,Resolved,2024-08-22,2024-09-10,19.0,1.0,Consumer very daughter guy.
+TKT00300,CUST0147,Billing,Medium,Closed,2024-02-28,2024-03-08,9.0,1.0,Central international summer write.
+TKT00301,CUST0195,Onboarding,Low,In Progress,2024-08-13,,,,Station win plant news tree join.
+TKT00302,CUST0168,Bug,Medium,Closed,2024-05-06,2024-05-16,10.0,3.0,Them crime professional success tonight.
+TKT00303,CUST0023,Feature Request,Low,Closed,2024-08-12,2024-08-16,4.0,5.0,Word especially travel song social feeling.
+TKT00304,CUST0177,Feature Request,Medium,Resolved,2024-06-28,2024-07-18,20.0,2.0,Can better understand certain force old stock.
+TKT00305,CUST0053,Billing,Medium,Resolved,2024-01-31,2024-02-19,19.0,2.0,Read finally move agreement.
+TKT00306,CUST0083,Billing,Critical,In Progress,2024-12-26,,,,Model night example effort better on claim.
+TKT00307,CUST0132,Onboarding,Critical,Open,2024-12-13,,,,Hold history magazine my protect somebody consumer effect.
+TKT00308,CUST0071,Feature Request,Low,Resolved,2024-12-01,2024-12-06,5.0,3.0,Tend spend blood.
+TKT00309,CUST0064,Performance,Medium,Resolved,2024-12-12,2024-12-25,13.0,4.0,Term great story in difficult.
+TKT00310,CUST0097,Bug,Medium,Resolved,2024-08-19,2024-08-22,3.0,3.0,Choose so feeling compare partner finally blood capital.
+TKT00311,CUST0178,Billing,Medium,Closed,2024-07-07,2024-07-22,15.0,1.0,Interview reduce agreement method technology all.
+TKT00312,CUST0188,Performance,Medium,Closed,2024-08-22,2024-09-03,12.0,4.0,Same family mind newspaper.
+TKT00313,CUST0055,Billing,Medium,In Progress,2024-09-10,,,,Thousand carry voice surface.
+TKT00314,CUST0148,Billing,High,Closed,2024-03-07,2024-03-26,19.0,1.0,Federal general material air parent better movement.
+TKT00315,CUST0012,Feature Request,Medium,Open,2024-02-20,,,,Manager pay back loss learn ball.
+TKT00316,CUST0001,Feature Request,High,Closed,2024-08-07,2024-08-14,7.0,3.0,Raise save appear around in interview thought general.
+TKT00317,CUST0041,Billing,Low,Resolved,2024-05-20,2024-05-23,3.0,2.0,Reality here if water remain court consider tend.
+TKT00318,CUST0014,Feature Request,Medium,Resolved,2024-07-21,2024-07-31,10.0,1.0,Give effort pattern seek action day friend.
+TKT00319,CUST0181,Bug,Low,In Progress,2024-02-18,,,,Study rise agree option customer party side property.
+TKT00320,CUST0058,Integration,Medium,Open,2024-09-22,,,,Sometimes central hospital type speech thank.
+TKT00321,CUST0031,Feature Request,Medium,Resolved,2024-08-04,2024-08-09,5.0,1.0,Collection including policy show.
+TKT00322,CUST0027,Feature Request,Medium,Closed,2024-06-09,2024-06-21,12.0,2.0,Reach firm factor market begin.
+TKT00323,CUST0165,Performance,Low,Open,2024-12-12,,,,Lay method rather its possible.
+TKT00324,CUST0167,Feature Request,Medium,Resolved,2024-03-25,2024-04-09,15.0,2.0,Nor record production scientist like plant last.
+TKT00325,CUST0106,Bug,High,Closed,2024-11-11,2024-11-26,15.0,2.0,Capital model beyond term eye allow hospital rest.
+TKT00326,CUST0193,Billing,Critical,Resolved,2024-03-04,2024-03-23,19.0,3.0,Very once knowledge until.
+TKT00327,CUST0036,Feature Request,Medium,Resolved,2024-05-06,2024-05-15,9.0,5.0,Off beyond become raise.
+TKT00328,CUST0185,Integration,Low,Closed,2024-11-07,2024-11-17,10.0,3.0,Among suddenly enough nearly series teach task.
+TKT00329,CUST0053,Integration,Medium,Resolved,2024-09-22,2024-10-12,20.0,1.0,Ever four information identify option front car.
+TKT00330,CUST0062,Onboarding,Medium,Open,2024-09-10,,,,Million for almost.
+TKT00331,CUST0019,Billing,Low,Closed,2024-09-27,2024-09-28,1.0,5.0,Quite develop policy camera central.
+TKT00332,CUST0108,Onboarding,Critical,Resolved,2024-07-06,2024-07-24,18.0,1.0,Open interesting understand often else provide finally.
+TKT00333,CUST0005,Feature Request,Low,Open,2024-10-27,,,,Discover matter successful consumer boy ok.
+TKT00334,CUST0016,Integration,Medium,In Progress,2024-07-22,,,,Blue half grow high world same.
+TKT00335,CUST0107,Performance,Medium,Open,2024-08-04,,,,In evidence bank state affect last computer.
+TKT00336,CUST0040,Performance,Critical,In Progress,2024-05-22,,,,Consumer indicate sport gas responsibility.
+TKT00337,CUST0040,Integration,High,Resolved,2024-10-01,2024-10-12,11.0,1.0,Difference not project your.
+TKT00338,CUST0080,Feature Request,Low,Resolved,2024-12-23,2025-01-06,14.0,1.0,Wonder more condition.
+TKT00339,CUST0112,Bug,Medium,Resolved,2024-02-29,2024-03-15,15.0,2.0,Investment off career situation moment manager.
+TKT00340,CUST0031,Feature Request,Medium,Resolved,2024-01-07,2024-01-12,5.0,3.0,Name though or painting country weight model.
+TKT00341,CUST0134,Feature Request,High,In Progress,2024-09-21,,,,Carry kind know drive wrong movie line candidate.
+TKT00342,CUST0069,Onboarding,Low,In Progress,2024-03-01,,,,Them sort system five herself impact material I.
+TKT00343,CUST0017,Onboarding,Medium,Resolved,2024-05-14,2024-06-02,19.0,3.0,Rule across whether amount recent.
+TKT00344,CUST0015,Feature Request,Low,In Progress,2024-09-12,,,,Really television remember last say site.
+TKT00345,CUST0027,Performance,Low,In Progress,2024-10-20,,,,Improve most effect until.
+TKT00346,CUST0004,Onboarding,Critical,Resolved,2024-05-05,2024-05-07,2.0,2.0,Surface none wife almost.
+TKT00347,CUST0010,Feature Request,Medium,In Progress,2024-10-10,,,,Push some manager necessary.
+TKT00348,CUST0185,Performance,Medium,Closed,2024-06-12,2024-06-21,9.0,5.0,News be toward poor street by civil eat.
+TKT00349,CUST0173,Performance,Critical,In Progress,2024-01-27,,,,Describe role ok out.
+TKT00350,CUST0103,Billing,Medium,Closed,2024-02-05,2024-02-20,15.0,5.0,Board perhaps structure way bank eight wish describe.
+TKT00351,CUST0117,Performance,High,In Progress,2024-01-05,,,,Who gas guess me.
+TKT00352,CUST0190,Performance,Critical,Resolved,2024-11-14,2024-11-22,8.0,2.0,Attorney point with sell nice.
+TKT00353,CUST0188,Onboarding,Low,In Progress,2024-10-06,,,,Apply key necessary give.
+TKT00354,CUST0139,Bug,High,Closed,2024-06-26,2024-06-27,1.0,4.0,Business response newspaper ever election outside.
+TKT00355,CUST0189,Feature Request,Medium,In Progress,2024-06-06,,,,Class head bring number national however book course.
+TKT00356,CUST0016,Feature Request,High,Open,2024-03-13,,,,Man finish wait treatment table beyond think magazine.
+TKT00357,CUST0134,Integration,Low,Resolved,2024-07-30,2024-08-11,12.0,1.0,Any capital north perhaps.
+TKT00358,CUST0130,Performance,Low,Open,2024-03-09,,,,City six mean notice.
+TKT00359,CUST0170,Billing,Critical,In Progress,2024-03-07,,,,Enough pattern not loss worry family situation early.
+TKT00360,CUST0101,Billing,Low,In Progress,2024-12-24,,,,Stock stop relationship six degree early.
+TKT00361,CUST0052,Bug,Low,Open,2024-03-10,,,,Set major than against mention cultural discuss.
+TKT00362,CUST0120,Billing,Critical,Open,2024-06-09,,,,Anything sister sport left meeting threat.
+TKT00363,CUST0054,Bug,Low,Resolved,2024-08-19,2024-08-29,10.0,3.0,They old chair young but argue.
+TKT00364,CUST0181,Billing,Low,Open,2024-12-22,,,,Agreement perhaps in include human.
+TKT00365,CUST0183,Bug,Medium,Resolved,2024-05-07,2024-05-19,12.0,3.0,Say series evidence maybe.
+TKT00366,CUST0045,Performance,High,Closed,2024-01-16,2024-01-29,13.0,2.0,Either into voice chance writer task team.
+TKT00367,CUST0025,Feature Request,Low,Closed,2024-08-24,2024-08-28,4.0,1.0,Recognize relate popular color.
+TKT00368,CUST0200,Onboarding,Medium,In Progress,2024-04-23,,,,Image create value.
+TKT00369,CUST0162,Billing,Critical,Resolved,2024-11-26,2024-11-29,3.0,1.0,White skill property Mr whatever relate.
+TKT00370,CUST0006,Onboarding,High,Closed,2024-02-03,2024-02-10,7.0,1.0,Face city think democratic receive.
+TKT00371,CUST0085,Bug,Low,Closed,2024-03-03,2024-03-05,2.0,5.0,Really town notice mission with believe already.
+TKT00372,CUST0111,Integration,Medium,Open,2024-07-21,,,,Full say management loss staff professional sport.
+TKT00373,CUST0091,Onboarding,High,In Progress,2024-04-19,,,,Mind upon before game minute.
+TKT00374,CUST0009,Integration,Low,Resolved,2024-11-10,2024-11-30,20.0,4.0,Parent a buy or own.
+TKT00375,CUST0141,Onboarding,Low,Open,2024-09-02,,,,Leg popular interesting feeling because.
+TKT00376,CUST0052,Performance,High,In Progress,2024-11-25,,,,Of behavior stay.
+TKT00377,CUST0098,Onboarding,Medium,Resolved,2024-12-31,2025-01-12,12.0,5.0,Fall want laugh forward good usually.
+TKT00378,CUST0129,Bug,Medium,In Progress,2024-06-13,,,,Exist claim middle east actually drive.
+TKT00379,CUST0057,Onboarding,Medium,Open,2024-01-16,,,,Continue three west region pretty movie note.
+TKT00380,CUST0197,Bug,Low,Closed,2024-10-26,2024-11-03,8.0,2.0,Return some step man commercial.
+TKT00381,CUST0069,Feature Request,Medium,Closed,2024-09-30,2024-10-02,2.0,4.0,Call write huge very low grow.
+TKT00382,CUST0091,Billing,High,In Progress,2024-03-29,,,,Probably board magazine probably trial loss blue.
+TKT00383,CUST0179,Integration,Medium,Open,2024-07-02,,,,Wear trouble remember why lawyer until.
+TKT00384,CUST0146,Feature Request,High,Resolved,2024-10-15,2024-10-20,5.0,4.0,Join sign plant baby represent course science.
+TKT00385,CUST0139,Bug,Low,Resolved,2024-06-07,2024-06-13,6.0,5.0,Truth friend purpose rise people.
+TKT00386,CUST0057,Billing,Critical,Resolved,2024-01-11,2024-01-28,17.0,2.0,Serve month Mrs themselves fund just whatever thing.
+TKT00387,CUST0034,Billing,Low,Closed,2024-06-23,2024-06-29,6.0,2.0,Quality agree create.
+TKT00388,CUST0151,Performance,High,Closed,2024-12-26,2024-12-31,5.0,1.0,Forward build each anyone hand environment allow.
+TKT00389,CUST0096,Billing,Medium,Resolved,2024-12-26,2025-01-08,13.0,2.0,Eight owner meeting make me she hard.
+TKT00390,CUST0041,Feature Request,High,Resolved,2024-08-11,2024-08-27,16.0,5.0,Learn again everybody activity win.
+TKT00391,CUST0178,Performance,High,In Progress,2024-11-10,,,,Expert through if phone.
+TKT00392,CUST0097,Integration,Low,Open,2024-06-06,,,,Think Mrs method.
+TKT00393,CUST0180,Performance,Low,Closed,2024-10-20,2024-11-02,13.0,5.0,Fight bag realize stand.
+TKT00394,CUST0082,Bug,Critical,Resolved,2024-11-09,2024-11-17,8.0,2.0,Significant together almost explain degree even laugh chair.
+TKT00395,CUST0085,Billing,Low,In Progress,2024-02-09,,,,Detail rock serious build difference.
+TKT00396,CUST0023,Billing,Low,Resolved,2024-12-28,2025-01-08,11.0,1.0,Firm last stuff military language usually political despite.
+TKT00397,CUST0090,Bug,Medium,Resolved,2024-05-11,2024-05-15,4.0,4.0,Forget ever read return forward create size.
+TKT00398,CUST0043,Billing,Medium,Closed,2024-07-30,2024-08-15,16.0,1.0,Chair part every edge.
+TKT00399,CUST0123,Bug,High,In Progress,2024-10-22,,,,Actually guess security card out sea.
+TKT00400,CUST0009,Bug,Low,In Progress,2024-05-30,,,,Firm court a business claim message.
+TKT00401,CUST0044,Performance,Critical,Resolved,2024-07-11,2024-07-17,6.0,1.0,Air social soldier color serious bank interest pay.
+TKT00402,CUST0087,Integration,Low,Closed,2024-10-31,2024-11-20,20.0,2.0,Order when tonight control.
+TKT00403,CUST0156,Billing,Low,Open,2024-08-10,,,,Forward fund name travel letter.
+TKT00404,CUST0049,Integration,Medium,Resolved,2024-07-28,2024-08-15,18.0,3.0,Mr site almost face determine majority single.
+TKT00405,CUST0077,Performance,Medium,Open,2024-05-01,,,,Arrive anything fine.
+TKT00406,CUST0126,Onboarding,Low,Resolved,2024-03-19,2024-03-21,2.0,5.0,Loss general already.
+TKT00407,CUST0123,Feature Request,Medium,Open,2024-04-12,,,,Remember blood whatever case chair character day.
+TKT00408,CUST0021,Onboarding,Medium,In Progress,2024-08-30,,,,Surface article miss firm side result.
+TKT00409,CUST0170,Onboarding,Low,Resolved,2024-05-15,2024-05-18,3.0,4.0,Very card concern item behind.
+TKT00410,CUST0095,Onboarding,Medium,Open,2024-04-05,,,,Almost college plan always brother.
+TKT00411,CUST0058,Integration,Medium,Open,2024-05-17,,,,Deep provide north light.
+TKT00412,CUST0022,Onboarding,Critical,Closed,2024-12-08,2024-12-20,12.0,5.0,Public black close family type want mission.
+TKT00413,CUST0059,Performance,Medium,Closed,2024-10-10,2024-10-12,2.0,5.0,Peace color note local.
+TKT00414,CUST0176,Onboarding,Low,Closed,2024-08-31,2024-09-19,19.0,4.0,Job lay produce drop possible tree rock participant.
+TKT00415,CUST0183,Performance,High,Resolved,2024-01-18,2024-02-04,17.0,5.0,Sister can doctor painting growth hot to.
+TKT00416,CUST0038,Feature Request,Critical,In Progress,2024-03-02,,,,Year safe image out night risk space.
+TKT00417,CUST0050,Integration,Medium,Resolved,2024-03-05,2024-03-07,2.0,2.0,Course common early major between have box.
+TKT00418,CUST0153,Bug,Low,Closed,2024-05-12,2024-05-23,11.0,5.0,Offer send interesting quickly western treat but.
+TKT00419,CUST0102,Performance,Medium,Closed,2024-10-09,2024-10-20,11.0,1.0,Improve quickly base beat.
+TKT00420,CUST0180,Onboarding,Low,Resolved,2024-11-15,2024-12-04,19.0,2.0,Food institution item prepare increase.
+TKT00421,CUST0038,Bug,Critical,Resolved,2024-10-17,2024-11-05,19.0,5.0,Seven defense wall behavior themselves.
+TKT00422,CUST0200,Billing,High,Closed,2024-02-21,2024-03-02,10.0,3.0,These subject the information.
+TKT00423,CUST0099,Onboarding,Low,Resolved,2024-12-01,2024-12-17,16.0,3.0,Choose how number newspaper really eight avoid wear.
+TKT00424,CUST0104,Integration,Medium,Resolved,2024-03-14,2024-04-03,20.0,4.0,Just identify policy personal book family tonight.
+TKT00425,CUST0085,Onboarding,Critical,Open,2024-12-19,,,,Heavy decision life machine.
+TKT00426,CUST0096,Billing,Medium,Closed,2024-01-11,2024-01-22,11.0,4.0,Much family anyone five.
+TKT00427,CUST0179,Feature Request,Low,Closed,2024-12-16,2024-12-20,4.0,4.0,Generation interest other produce same woman.
+TKT00428,CUST0199,Performance,Medium,Resolved,2024-06-13,2024-06-22,9.0,2.0,Old able public center table kind likely itself.
+TKT00429,CUST0114,Performance,High,Resolved,2024-04-18,2024-05-02,14.0,1.0,Game lose whom fear smile something series bit.
+TKT00430,CUST0132,Performance,Medium,In Progress,2024-03-22,,,,Idea prove degree heart TV right management.
+TKT00431,CUST0200,Feature Request,High,Open,2024-09-25,,,,Table box little enjoy consider around news.
+TKT00432,CUST0052,Bug,Critical,Open,2024-01-30,,,,Prove wrong set a.
+TKT00433,CUST0181,Onboarding,Medium,Resolved,2024-04-11,2024-04-20,9.0,1.0,Similar myself simple woman sea west.
+TKT00434,CUST0175,Performance,Medium,Resolved,2024-01-16,2024-01-24,8.0,4.0,Deep decide suffer debate turn.
+TKT00435,CUST0151,Billing,High,In Progress,2024-10-09,,,,Card stuff anyone wait computer voice can put.
+TKT00436,CUST0177,Bug,Low,Open,2024-02-16,,,,For go personal rise.
+TKT00437,CUST0147,Integration,Low,Resolved,2024-04-19,2024-04-27,8.0,4.0,Type in too thus above.
+TKT00438,CUST0132,Feature Request,Medium,Resolved,2024-01-11,2024-01-12,1.0,5.0,Sea staff herself summer majority do reduce.
+TKT00439,CUST0003,Billing,High,Resolved,2024-04-24,2024-05-03,9.0,3.0,Painting information along continue view though as.
+TKT00440,CUST0109,Feature Request,Medium,Resolved,2024-07-11,2024-07-23,12.0,5.0,Paper rock quickly rise fund push.
+TKT00441,CUST0160,Performance,Critical,Open,2024-07-22,,,,Central field growth street become hair front.
+TKT00442,CUST0096,Billing,Medium,Resolved,2024-10-14,2024-11-03,20.0,4.0,Population hit movement need.
+TKT00443,CUST0017,Billing,Low,Resolved,2024-06-21,2024-06-30,9.0,3.0,Check explain maintain fact consumer suffer try.
+TKT00444,CUST0049,Bug,High,Closed,2024-03-17,2024-04-03,17.0,5.0,Small just on society push house open.
+TKT00445,CUST0104,Integration,Low,Resolved,2024-12-04,2024-12-15,11.0,4.0,Run boy provide information page.
+TKT00446,CUST0076,Integration,Low,Resolved,2024-05-12,2024-05-26,14.0,5.0,Ready per doctor necessary network old price.
+TKT00447,CUST0049,Integration,High,Resolved,2024-06-24,2024-07-02,8.0,3.0,Concern campaign former know simple item agreement.
+TKT00448,CUST0130,Performance,Low,Closed,2024-06-02,2024-06-08,6.0,1.0,Once quickly these occur quite skin again.
+TKT00449,CUST0121,Performance,High,Resolved,2024-03-06,2024-03-15,9.0,2.0,Recognize prove street blood left determine officer.
+TKT00450,CUST0175,Feature Request,High,In Progress,2024-06-20,,,,Attorney here own issue catch machine husband.
+TKT00451,CUST0079,Performance,Low,Resolved,2024-08-03,2024-08-14,11.0,1.0,Easy old size raise south hit.
+TKT00452,CUST0121,Performance,Low,Resolved,2024-01-28,2024-02-16,19.0,2.0,Front hot find property player.
+TKT00453,CUST0129,Onboarding,Low,Resolved,2024-03-02,2024-03-15,13.0,2.0,Whatever religious pay.
+TKT00454,CUST0036,Performance,High,Resolved,2024-04-12,2024-04-23,11.0,4.0,In blue build speak by high.
+TKT00455,CUST0037,Onboarding,Medium,Closed,2024-06-10,2024-06-16,6.0,2.0,Hospital easy law beat.
+TKT00456,CUST0081,Billing,Low,Open,2024-11-20,,,,Boy charge feel cold.
+TKT00457,CUST0199,Onboarding,High,Closed,2024-03-27,2024-04-15,19.0,1.0,Activity movement cup business say.
+TKT00458,CUST0034,Onboarding,Medium,Resolved,2024-11-10,2024-11-24,14.0,4.0,Full imagine edge lawyer.
+TKT00459,CUST0099,Integration,Medium,Resolved,2024-01-03,2024-01-05,2.0,1.0,Large risk music mouth air score person.
+TKT00460,CUST0083,Bug,Medium,Open,2024-09-28,,,,Cut visit maybe wear after investment.
+TKT00461,CUST0064,Bug,Medium,In Progress,2024-04-25,,,,From nature sea point network soldier.
+TKT00462,CUST0151,Bug,Low,Open,2024-06-05,,,,Sister civil success on responsibility audience including often.
+TKT00463,CUST0075,Billing,Medium,Resolved,2024-08-21,2024-09-07,17.0,2.0,Agree space commercial office open.
+TKT00464,CUST0088,Feature Request,Critical,Closed,2024-09-07,2024-09-19,12.0,4.0,Behavior that need Congress organization.
+TKT00465,CUST0005,Feature Request,Low,Resolved,2024-04-26,2024-05-04,8.0,1.0,Collection area really half happen subject foot.
+TKT00466,CUST0151,Integration,Medium,Open,2024-09-15,,,,Rise thing arm page my more.
+TKT00467,CUST0010,Performance,Low,Closed,2024-07-11,2024-07-20,9.0,1.0,Themselves style success.
+TKT00468,CUST0170,Bug,Medium,Open,2024-02-25,,,,Ask some direction indeed under.
+TKT00469,CUST0098,Integration,Low,In Progress,2024-03-04,,,,Food leader throughout property.
+TKT00470,CUST0178,Integration,Low,In Progress,2024-12-17,,,,Begin either bill provide opportunity marriage beat.
+TKT00471,CUST0134,Feature Request,Medium,Resolved,2024-05-18,2024-06-07,20.0,1.0,Will fact call go culture live charge among.
+TKT00472,CUST0131,Bug,Medium,In Progress,2024-11-12,,,,Step dinner they skin skill message.
+TKT00473,CUST0156,Feature Request,Medium,Closed,2024-04-12,2024-04-21,9.0,4.0,Radio upon include.
+TKT00474,CUST0076,Feature Request,Medium,Resolved,2024-03-23,2024-03-25,2.0,4.0,Car base garden response should building.
+TKT00475,CUST0085,Bug,Critical,Open,2024-04-30,,,,Program cultural early reveal government skill.
+TKT00476,CUST0147,Bug,High,Open,2024-12-08,,,,Speak job kid wait kind improve piece.
+TKT00477,CUST0020,Onboarding,Critical,Resolved,2024-02-21,2024-03-01,9.0,3.0,Fire growth run follow.
+TKT00478,CUST0068,Feature Request,High,Open,2024-08-25,,,,Require goal improve article whatever themselves.
+TKT00479,CUST0075,Bug,Low,Resolved,2024-07-03,2024-07-14,11.0,1.0,Lose business over picture never language here take.
+TKT00480,CUST0003,Onboarding,Critical,In Progress,2024-03-11,,,,Health young look home understand ever total.
+TKT00481,CUST0069,Feature Request,Low,Closed,2024-02-17,2024-02-29,12.0,4.0,Federal force sport manage arrive record owner present.
+TKT00482,CUST0117,Onboarding,High,Resolved,2024-05-19,2024-06-01,13.0,2.0,Kid gas spend goal figure boy.
+TKT00483,CUST0029,Feature Request,Low,Closed,2024-03-08,2024-03-10,2.0,5.0,Above reveal film send visit poor want.
+TKT00484,CUST0124,Onboarding,High,In Progress,2024-10-18,,,,Risk focus total leader may true.
+TKT00485,CUST0157,Onboarding,Low,Resolved,2024-01-15,2024-01-20,5.0,4.0,Real read listen none occur take.
+TKT00486,CUST0113,Billing,Low,In Progress,2024-01-24,,,,We continue exist official plan large.
+TKT00487,CUST0174,Feature Request,Critical,Resolved,2024-09-25,2024-10-14,19.0,3.0,Since nature identify southern world cup why huge.
+TKT00488,CUST0133,Integration,High,Open,2024-09-24,,,,Employee miss upon finally.
+TKT00489,CUST0124,Performance,High,Open,2024-06-26,,,,Detail develop give both organization score save.
+TKT00490,CUST0157,Feature Request,Medium,Resolved,2024-01-28,2024-01-29,1.0,4.0,Foreign class should wind.
+TKT00491,CUST0127,Billing,Low,Closed,2024-03-25,2024-03-28,3.0,3.0,Feel dinner way support fund himself.
+TKT00492,CUST0013,Onboarding,Medium,Resolved,2024-09-16,2024-09-24,8.0,2.0,Rule too fine inside approach stock.
+TKT00493,CUST0021,Onboarding,Low,Closed,2024-08-23,2024-09-07,15.0,4.0,Laugh camera structure you computer though reach.
+TKT00494,CUST0115,Integration,Medium,Closed,2024-06-10,2024-06-14,4.0,1.0,Painting feel foreign manage.
+TKT00495,CUST0104,Bug,High,Resolved,2024-07-30,2024-08-01,2.0,5.0,Analysis knowledge yourself price majority total human business.
+TKT00496,CUST0159,Performance,Low,Closed,2024-11-22,2024-12-02,10.0,4.0,Put federal born simple paper data.
+TKT00497,CUST0088,Onboarding,Medium,Closed,2024-07-05,2024-07-07,2.0,5.0,Federal send state until tough.
+TKT00498,CUST0154,Bug,Low,Resolved,2024-08-30,2024-09-11,12.0,2.0,Environment inside race song.
+TKT00499,CUST0001,Billing,Medium,Closed,2024-06-23,2024-07-05,12.0,3.0,Set less offer radio type.
+TKT00500,CUST0180,Onboarding,Low,Closed,2024-02-24,2024-02-26,2.0,4.0,Already recently dog draw.

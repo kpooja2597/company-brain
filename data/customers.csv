@@ -1,0 +1,201 @@
+customer_id,company_name,industry,plan,status,signup_date,mrr,country,account_manager
+CUST0001,Harper-Walker,Healthcare,Free,Churned,2024-11-23,0,US,Kelly Wilson
+CUST0002,Cook Group,Fintech,Pro,Trial,2024-02-22,149,US,John Oconnor
+CUST0003,Wright-Olson,Logistics,Free,Active,2024-01-17,0,UK,Donald Finley
+CUST0004,Ryan-Aguirre,Logistics,Free,Churned,2024-10-14,0,US,Paul Vargas
+CUST0005,Mcdonald-King,Fintech,Starter,Churned,2024-08-17,49,Canada,Richard Gilbert
+CUST0006,Dixon Inc,Healthcare,Pro,Active,2024-03-22,149,US,Angel Smith
+CUST0007,"Roberts, Moore and Long",Retail,Free,Active,2024-06-21,0,Canada,Donna Johnson
+CUST0008,"Martin, Stephens and Rodriguez",SaaS,Free,Active,2024-11-05,0,US,Rebecca Roberson
+CUST0009,"Sawyer, Nguyen and Shelton",Education,Free,Active,2024-07-12,0,UK,Patrick Jones
+CUST0010,Rivers Group,Fintech,Starter,Churned,2024-07-04,49,UK,Jamie Stephenson
+CUST0011,Reid PLC,Fintech,Enterprise,Trial,2024-05-28,499,US,Sarah Gallegos
+CUST0012,"Cox, Gallagher and Rice",Retail,Pro,Active,2024-08-20,149,US,Holly Carson
+CUST0013,Duffy-Hoffman,Education,Free,Trial,2024-12-09,0,US,Kevin Mcintyre
+CUST0014,Ray-Graham,Healthcare,Free,Churned,2024-11-21,0,US,Caitlin White
+CUST0015,"Juarez, Santos and Harrington",Logistics,Enterprise,Churned,2024-05-18,499,US,Shelby Colon
+CUST0016,White-Pitts,Healthcare,Pro,Churned,2024-06-15,149,Canada,Brendan Campbell
+CUST0017,Cochran and Sons,Logistics,Starter,Active,2024-06-10,49,Canada,James Smith
+CUST0018,Bailey and Sons,Education,Free,Active,2024-06-10,0,US,Jeremy Davis
+CUST0019,Lawrence PLC,Logistics,Free,Churned,2024-05-15,0,US,William Figueroa
+CUST0020,Morales LLC,Retail,Starter,Active,2024-10-26,49,US,Michael Miller
+CUST0021,"Cunningham, Mccormick and Watkins",Fintech,Starter,Active,2024-03-11,49,Canada,Christopher Smith
+CUST0022,Beck Group,SaaS,Pro,Churned,2024-03-19,149,US,Sarah Lowe
+CUST0023,"Montgomery, Avila and Smith",Logistics,Starter,Trial,2024-07-16,49,US,John Ward
+CUST0024,Ray Ltd,Education,Enterprise,Active,2024-10-10,499,US,Melissa Phillips
+CUST0025,Key-Wallace,Retail,Pro,Churned,2024-10-01,149,US,Jared Fuller
+CUST0026,Smith and Sons,Education,Free,Active,2024-08-10,0,Canada,Karen Contreras
+CUST0027,"Brady, Campbell and Fisher",Logistics,Enterprise,Churned,2024-05-14,499,India,Robert Garcia
+CUST0028,Sullivan-Ramirez,Logistics,Free,Churned,2024-11-16,0,US,Mike Vazquez
+CUST0029,Davis-Meyer,Logistics,Pro,Active,2024-07-10,149,India,Jeremy Ramos
+CUST0030,"Brown, Lane and Wright",Retail,Starter,Active,2024-11-02,49,Canada,Christopher Jones
+CUST0031,Craig-Adkins,Logistics,Free,Active,2024-06-06,0,India,Jennifer Pitts
+CUST0032,Stark-Kelly,Logistics,Pro,Churned,2024-02-13,149,Canada,Pamela Smith
+CUST0033,White and Sons,Healthcare,Pro,Trial,2024-03-06,149,US,Karen Bailey
+CUST0034,"Henderson, Stevenson and Roberts",Logistics,Starter,Active,2024-11-06,49,Canada,Kyle Murphy
+CUST0035,Herring-Holmes,Education,Free,Active,2024-12-19,0,UK,Caitlyn Davis
+CUST0036,Fuentes-Smith,Healthcare,Enterprise,Active,2024-08-12,499,US,Karen Hernandez
+CUST0037,"Chandler, Reilly and Brown",Logistics,Free,Active,2024-06-22,0,US,Richard Leonard
+CUST0038,"Perez, Garcia and Gay",Fintech,Pro,Active,2024-02-06,149,India,Virginia Howard
+CUST0039,"Robinson, Daniels and Herrera",Education,Free,Active,2024-06-18,0,US,Jill Smith
+CUST0040,"Jones, Welch and Williams",Logistics,Free,Trial,2024-10-03,0,US,David Vasquez
+CUST0041,Brown PLC,Healthcare,Pro,Churned,2024-05-04,149,US,Michelle Blackburn
+CUST0042,"Murphy, Castillo and Fernandez",SaaS,Starter,Active,2024-12-03,49,Canada,William Yu
+CUST0043,Roberts-Rollins,Fintech,Pro,Trial,2024-01-28,149,US,Charles Mcdonald
+CUST0044,Miller Group,Healthcare,Pro,Active,2024-06-22,149,US,David Rodgers
+CUST0045,"Doyle, Campbell and Peters",SaaS,Free,Active,2024-08-17,0,US,Kristin Riley
+CUST0046,Montes and Sons,Logistics,Starter,Trial,2024-02-08,49,US,Roberta Knapp
+CUST0047,Jenkins PLC,Fintech,Enterprise,Churned,2024-11-29,499,India,Jeffrey Hendrix
+CUST0048,Gonzalez PLC,Healthcare,Free,Active,2024-05-01,0,Canada,Christopher Ortiz
+CUST0049,Bradley PLC,SaaS,Free,Active,2024-01-31,0,US,Susan Reynolds MD
+CUST0050,Booker-Russell,Education,Free,Churned,2024-08-20,0,India,Billy Hernandez
+CUST0051,Ramirez-Pierce,Healthcare,Pro,Active,2024-10-11,149,US,Robert Garrett
+CUST0052,"Mckee, Davis and Howard",Education,Starter,Active,2024-01-30,49,US,Katherine Sanchez
+CUST0053,Davis-Kelly,Logistics,Starter,Active,2024-01-26,49,US,Katelyn Stone
+CUST0054,Vaughn-Morgan,Logistics,Free,Active,2024-09-17,0,US,Deborah Horton
+CUST0055,"Aguilar, Gonzalez and Jordan",Logistics,Starter,Trial,2024-04-30,49,US,Mrs. Katherine Atkinson
+CUST0056,Bender Group,Education,Free,Active,2024-10-31,0,US,Caleb Martin
+CUST0057,Howard-King,Education,Starter,Active,2024-09-24,49,UK,Charles Mitchell
+CUST0058,Mcmahon LLC,Education,Free,Active,2024-05-02,0,US,Barbara Anderson
+CUST0059,Gomez Ltd,Fintech,Enterprise,Trial,2024-06-10,499,US,Karen Martinez
+CUST0060,Thomas and Sons,Healthcare,Enterprise,Active,2024-10-15,499,US,Kevin Williams
+CUST0061,"Cabrera, Anderson and Dean",Healthcare,Enterprise,Trial,2024-03-08,499,US,Steven Gibson
+CUST0062,"Farmer, Stewart and Lambert",Retail,Starter,Active,2024-03-21,49,UK,Hayley Hall
+CUST0063,"Anderson, Smith and Kelly",Logistics,Starter,Churned,2024-11-30,49,US,Sarah Erickson
+CUST0064,Hodge Group,Retail,Free,Trial,2024-12-05,0,US,Patricia Anderson
+CUST0065,Walsh Ltd,Retail,Pro,Active,2024-02-24,149,UK,Christopher Walker
+CUST0066,Powell LLC,Retail,Free,Churned,2024-06-24,0,US,Benjamin Anderson
+CUST0067,"Baker, Rosales and Williams",Fintech,Enterprise,Churned,2024-05-08,499,UK,Tammy Blankenship
+CUST0068,"Boyd, Perry and Sweeney",Healthcare,Free,Active,2024-05-21,0,UK,Elizabeth Harris
+CUST0069,Carlson-Walker,Education,Free,Active,2024-05-14,0,US,Katrina Cooper
+CUST0070,"Brooks, Johnson and Watson",Education,Free,Trial,2024-01-05,0,India,Sheila Sanchez
+CUST0071,Roberts-Watkins,Logistics,Free,Active,2024-10-06,0,US,Jimmy Moore
+CUST0072,Hill-Fitzgerald,Fintech,Free,Active,2024-03-06,0,Canada,Mary Rivera
+CUST0073,Bolton PLC,Retail,Pro,Churned,2024-04-17,149,Canada,Melissa Jackson
+CUST0074,Bradshaw-Benitez,Healthcare,Enterprise,Churned,2024-07-27,499,Canada,Angela York
+CUST0075,Torres PLC,Education,Enterprise,Active,2024-03-31,499,India,Tanner Sutton
+CUST0076,Sawyer Ltd,Healthcare,Pro,Trial,2024-07-29,149,US,Mrs. Nicole Compton
+CUST0077,Holt Group,SaaS,Free,Trial,2024-12-25,0,US,Teresa Rogers
+CUST0078,"Rice, Wilson and Davis",Healthcare,Starter,Churned,2024-08-23,49,US,Samantha Powell
+CUST0079,"Mosley, Cross and Anderson",Fintech,Free,Active,2024-12-03,0,India,Deborah Moore
+CUST0080,Fuentes-Macdonald,Education,Starter,Active,2024-05-22,49,India,Joanne Mitchell
+CUST0081,Conley-Levy,Retail,Starter,Active,2024-10-01,49,US,Brandon Smith
+CUST0082,Burton PLC,Retail,Free,Active,2024-05-15,0,UK,Kristy Moore
+CUST0083,"Anderson, Bailey and Flores",Fintech,Starter,Trial,2024-06-09,49,US,Justin Hoffman
+CUST0084,Gomez-Glover,SaaS,Free,Active,2024-10-22,0,US,Victoria Bradley
+CUST0085,"Holmes, Preston and English",Education,Pro,Trial,2024-10-02,149,UK,Elizabeth Elliott
+CUST0086,Hart LLC,Retail,Starter,Trial,2024-07-05,49,UK,Patrick Johnson
+CUST0087,Butler-Wu,Retail,Pro,Churned,2024-12-05,149,US,Sandy Lamb
+CUST0088,"Hunt, Torres and Hayes",Retail,Starter,Active,2024-12-07,49,US,Alicia Mack
+CUST0089,Delgado LLC,Education,Starter,Trial,2024-04-08,49,UK,Scott Lambert
+CUST0090,Pitts-Stein,Logistics,Pro,Active,2024-03-30,149,Canada,Destiny Brock
+CUST0091,"Edwards, Spencer and Garza",Logistics,Free,Active,2024-06-04,0,UK,Matthew Floyd
+CUST0092,Sandoval-Martin,Healthcare,Starter,Active,2024-06-13,49,US,Kayla Wilson
+CUST0093,Johnson and Sons,Education,Pro,Active,2024-03-27,149,UK,Holly King
+CUST0094,"Price, Hall and Rosario",Healthcare,Free,Trial,2024-06-20,0,UK,Christopher Dixon
+CUST0095,"Morton, Lopez and Branch",Fintech,Pro,Active,2024-04-25,149,US,Benjamin Campbell
+CUST0096,Aguirre-Smith,SaaS,Pro,Churned,2024-08-31,149,US,Brian Fisher
+CUST0097,"Johnson, Baker and Jones",SaaS,Starter,Churned,2024-11-18,49,US,Tiffany George
+CUST0098,Campbell Group,Fintech,Free,Churned,2024-05-04,0,Canada,Jacob Ortiz
+CUST0099,Ho Group,Logistics,Free,Trial,2024-04-22,0,US,Michael Chapman
+CUST0100,"Lewis, Wright and Martinez",SaaS,Free,Churned,2024-10-12,0,US,Lisa Brady
+CUST0101,White-Ellis,Logistics,Pro,Trial,2024-08-25,149,US,Heather Hart
+CUST0102,Chambers LLC,Logistics,Pro,Churned,2024-08-14,149,US,Thomas Bradshaw
+CUST0103,Byrd Ltd,SaaS,Starter,Active,2024-10-07,49,US,Eric Reese
+CUST0104,Franklin and Sons,Logistics,Pro,Active,2024-05-06,149,US,Chad Larson MD
+CUST0105,Jones-Green,Retail,Free,Active,2024-05-02,0,US,Allen Rose
+CUST0106,Gordon-Berger,Healthcare,Starter,Active,2024-06-20,49,US,Barbara Whitney
+CUST0107,"Henderson, Hall and Clark",Fintech,Pro,Churned,2024-07-15,149,US,Tina Cochran
+CUST0108,Mejia LLC,Healthcare,Starter,Active,2024-06-18,49,Canada,Ashley Bond
+CUST0109,Jones-Black,Education,Enterprise,Active,2024-07-18,499,US,Richard Moreno
+CUST0110,Bradley-Kelly,Retail,Starter,Active,2024-10-21,49,US,John May
+CUST0111,"Hancock, Allen and Cruz",SaaS,Enterprise,Trial,2024-07-18,499,US,Colleen Gomez
+CUST0112,"Dunn, Carlson and Mccormick",SaaS,Pro,Trial,2024-10-06,149,US,Frank Taylor
+CUST0113,"Lopez, Byrd and Dixon",Education,Starter,Active,2024-08-11,49,UK,John Stephens
+CUST0114,Rios PLC,Healthcare,Pro,Churned,2024-07-26,149,India,Tyler Thomas
+CUST0115,Myers-Parsons,Logistics,Free,Active,2024-09-30,0,UK,Lisa Garner
+CUST0116,"Larsen, Boyd and Hodge",SaaS,Pro,Active,2024-02-12,149,US,John Hall
+CUST0117,Lopez PLC,Retail,Starter,Active,2024-05-13,49,US,Tracy Hanna
+CUST0118,White Group,SaaS,Free,Trial,2024-07-13,0,US,Jennifer Jackson
+CUST0119,Perez Ltd,Fintech,Starter,Churned,2024-02-11,49,India,Michelle Hull
+CUST0120,Coleman-Holden,Education,Free,Active,2024-06-28,0,US,Denise Morse
+CUST0121,"Rodriguez, Montes and Hale",Fintech,Enterprise,Active,2024-01-16,499,UK,Cody Forbes
+CUST0122,Burton-Miller,Logistics,Free,Churned,2024-05-02,0,India,Monica Boone
+CUST0123,Hernandez-Green,Healthcare,Pro,Churned,2024-08-26,149,UK,William Smith
+CUST0124,"Bennett, Lewis and Evans",Retail,Pro,Active,2024-02-28,149,US,Christine Perry
+CUST0125,"Conner, Johnson and Allen",SaaS,Enterprise,Active,2024-01-14,499,US,James Bartlett
+CUST0126,Velazquez Inc,Education,Free,Churned,2024-04-11,0,US,Jimmy Mccoy
+CUST0127,Walls Inc,Logistics,Pro,Trial,2024-12-22,149,Canada,Kelli Heath
+CUST0128,Carroll Ltd,SaaS,Pro,Active,2024-10-16,149,UK,Crystal Werner
+CUST0129,Ruiz-Garcia,SaaS,Starter,Active,2024-02-05,49,Canada,Leslie Gonzalez
+CUST0130,"Williams, Green and Lopez",SaaS,Starter,Active,2024-02-24,49,UK,Janet Stephens
+CUST0131,Boyd-Singleton,Education,Free,Active,2024-08-10,0,US,Melanie Hamilton
+CUST0132,Montes-Sloan,Education,Pro,Active,2024-10-02,149,US,Timothy Williams
+CUST0133,"Salinas, Washington and Mann",Fintech,Enterprise,Churned,2024-06-14,499,US,Colleen Rivera
+CUST0134,Young-Williams,Logistics,Free,Active,2024-08-18,0,UK,Kelly Padilla
+CUST0135,Blevins Inc,Healthcare,Free,Trial,2024-06-21,0,US,Katie Williams
+CUST0136,Smith and Sons,Logistics,Pro,Active,2024-06-30,149,UK,James Shelton
+CUST0137,"Murphy, Chan and Wells",Healthcare,Starter,Active,2024-05-21,49,US,Brittany David
+CUST0138,Thompson-Lewis,Education,Starter,Churned,2024-07-27,49,US,Donna Benson
+CUST0139,Espinoza-Santana,Fintech,Starter,Churned,2024-12-30,49,US,Dana Johnson
+CUST0140,"Medina, Carlson and Ballard",Logistics,Pro,Active,2024-07-26,149,US,Bryan Duke
+CUST0141,"Duran, Grimes and Graves",Education,Starter,Active,2024-10-10,49,US,Chad Wright
+CUST0142,Smith-Rangel,Retail,Pro,Active,2024-06-29,149,US,Christopher Mejia
+CUST0143,Combs-Hughes,Education,Starter,Churned,2024-04-08,49,US,Shane Curry
+CUST0144,Taylor and Sons,Logistics,Pro,Active,2024-04-20,149,India,Ian Kelly
+CUST0145,Lee-Hardy,Healthcare,Starter,Trial,2024-09-25,49,US,Marc Glenn
+CUST0146,Robinson Inc,Logistics,Free,Active,2024-07-03,0,US,Dr. Victor Smith
+CUST0147,Munoz Ltd,Education,Enterprise,Active,2024-01-24,499,India,Juan Coleman
+CUST0148,Stewart-Andrews,Fintech,Enterprise,Active,2024-11-22,499,US,Jason Dunn
+CUST0149,"Reynolds, Baker and Lee",Fintech,Starter,Active,2024-08-28,49,US,Lauren Roth
+CUST0150,Brennan-Mcdonald,SaaS,Free,Active,2024-09-01,0,US,Anne Downs
+CUST0151,"Martinez, Weaver and Richardson",Logistics,Pro,Active,2024-11-18,149,India,Troy Hansen
+CUST0152,"Haynes, Brown and Curry",SaaS,Enterprise,Active,2024-02-13,499,UK,Amanda Hendricks
+CUST0153,Harper-Maddox,SaaS,Free,Active,2024-11-12,0,India,Amanda Peters
+CUST0154,"Wright, Nguyen and Butler",Retail,Enterprise,Trial,2024-06-01,499,US,Kirsten Cantrell
+CUST0155,"Lang, Hernandez and Mcintosh",Healthcare,Pro,Churned,2024-01-31,149,UK,Laura Hart DDS
+CUST0156,Wilcox-Baker,Healthcare,Pro,Active,2024-05-15,149,US,Abigail Shields
+CUST0157,Herrera and Sons,Logistics,Free,Active,2024-03-21,0,US,Justin Martin
+CUST0158,Casey and Sons,Education,Free,Churned,2024-01-17,0,Canada,Melanie Wilson
+CUST0159,"Solomon, Craig and Schmidt",Education,Pro,Trial,2024-02-06,149,US,Nicholas Wilson II
+CUST0160,Lopez Ltd,Education,Starter,Active,2024-04-11,49,US,Carlos Washington
+CUST0161,Richards-Roberts,Healthcare,Pro,Active,2024-05-16,149,Canada,Elizabeth Schneider
+CUST0162,Austin-Wood,Retail,Pro,Active,2024-10-31,149,US,Brent Baxter
+CUST0163,"Dyer, Park and Cox",Retail,Pro,Churned,2024-08-27,149,US,Alexandra Lamb
+CUST0164,Miller-James,SaaS,Starter,Active,2024-09-09,49,UK,Jessica Bonilla
+CUST0165,"Wright, Williams and Campbell",Education,Free,Active,2024-11-05,0,Canada,Zachary Cook
+CUST0166,Glass-Nguyen,Education,Starter,Active,2024-10-21,49,Canada,Linda Price
+CUST0167,Johnson-Tucker,SaaS,Free,Churned,2024-10-22,0,US,Jeffrey Webb
+CUST0168,Saunders-Rogers,Logistics,Enterprise,Active,2024-08-14,499,US,Laura Williams
+CUST0169,Vasquez Group,SaaS,Enterprise,Active,2024-09-08,499,US,Brenda Smith
+CUST0170,"Butler, Carpenter and Payne",SaaS,Free,Active,2024-12-09,0,UK,Christian Mckay
+CUST0171,"Mclean, Cortez and Adams",Logistics,Pro,Active,2024-05-27,149,US,Samuel Lucas
+CUST0172,Anderson Ltd,SaaS,Starter,Active,2024-02-15,49,Canada,Nathaniel Miller
+CUST0173,Griffin and Sons,SaaS,Pro,Active,2024-01-01,149,US,Jose Lewis
+CUST0174,Thompson-Johnson,Education,Starter,Churned,2024-09-22,49,US,Jason Spencer
+CUST0175,Elliott-Castro,Retail,Free,Active,2024-01-27,0,US,Robert Herrera
+CUST0176,Henderson Inc,Education,Starter,Active,2024-12-23,49,UK,Matthew Davis
+CUST0177,Castro Ltd,Fintech,Pro,Active,2024-05-02,149,US,Ian Woods
+CUST0178,Mendoza PLC,Fintech,Free,Churned,2024-02-17,0,US,Ariel Jefferson
+CUST0179,"Cross, Carlson and Torres",Education,Pro,Active,2024-03-01,149,US,Tammy Johnson
+CUST0180,Phillips Ltd,SaaS,Free,Churned,2024-12-27,0,US,Sandra Alvarez
+CUST0181,Brooks Ltd,Logistics,Free,Active,2024-10-09,0,US,Ryan Morris
+CUST0182,Malone-Greene,SaaS,Enterprise,Active,2024-03-10,499,US,Ronald Turner
+CUST0183,Huang LLC,Education,Free,Active,2024-09-16,0,US,James Contreras
+CUST0184,"Stewart, Mueller and Dean",Healthcare,Starter,Churned,2024-10-27,49,US,Lynn Rasmussen
+CUST0185,Villarreal-Roth,Logistics,Starter,Active,2024-09-04,49,US,Erica Rich
+CUST0186,"Holland, Martinez and Schmitt",Healthcare,Enterprise,Trial,2024-06-13,499,US,Eric Davis
+CUST0187,"Moore, Davis and Moore",Retail,Enterprise,Active,2024-04-29,499,UK,Ricky Clark
+CUST0188,Ross PLC,Education,Enterprise,Active,2024-12-27,499,Canada,Maria Koch
+CUST0189,Maldonado-Vargas,Fintech,Enterprise,Active,2024-11-29,499,US,John Espinoza
+CUST0190,Nunez-Archer,SaaS,Starter,Active,2024-10-29,49,US,Stacey Page
+CUST0191,Ellis-Davis,Education,Free,Active,2024-08-21,0,India,Darren Reyes
+CUST0192,"Anderson, Heath and Crawford",Retail,Starter,Trial,2024-02-08,49,UK,Carmen Phillips
+CUST0193,"Ramirez, Newton and Lewis",Education,Pro,Trial,2024-07-22,149,Canada,Sarah Gutierrez
+CUST0194,"Snyder, Peters and Martinez",SaaS,Enterprise,Churned,2024-07-13,499,Canada,Robin Klein
+CUST0195,Jones Group,Education,Pro,Active,2024-01-19,149,India,Marc Simpson
+CUST0196,"Carey, Rodriguez and Matthews",Fintech,Pro,Active,2024-04-26,149,Canada,Raymond Jackson
+CUST0197,Rios-Porter,Education,Enterprise,Active,2024-12-26,499,US,Jermaine Morrow
+CUST0198,Rivers Inc,Retail,Free,Churned,2024-01-15,0,US,Stacy Trevino
+CUST0199,Cross Group,Logistics,Free,Active,2024-08-08,0,UK,Kelly Johnson
+CUST0200,Smith-Francis,SaaS,Free,Active,2024-04-02,0,UK,Sarah Sanchez

@@ -1,0 +1,151 @@
+meeting_id,customer_id,meeting_type,date,duration_mins,outcome,attendees,action_items,notes_summary
+MTG0001,CUST0028,Upsell,2024-05-10,45,Positive,5,1,That fight draw. Industry prepare last recently contain international. Us guess class save back industry. Individual determine ball middle threat last.
+MTG0002,CUST0118,Churn Risk Review,2024-04-07,60,Positive,5,0,Course fast list admit hit. Ever school occur guess when wear five speech. Full forget station always feeling gas.
+MTG0003,CUST0163,Upsell,2024-12-10,30,Negative,5,3,Again he hotel something owner cell. Wind product standard manager case night offer. Kitchen result prevent major drop shake example.
+MTG0004,CUST0169,Upsell,2024-10-28,45,Follow-up Required,2,4,Power care decade board exist.
+MTG0005,CUST0189,Upsell,2024-01-25,90,Negative,5,4,Act card look tough example court. Much alone debate middle hotel matter mention.
+MTG0006,CUST0200,Churn Risk Review,2024-03-31,45,Negative,3,0,How party off. Always girl activity Mr anyone we protect us.
+MTG0007,CUST0100,Upsell,2024-12-02,60,Neutral,5,3,Character cell next reason police instead deal wide. Money born scientist chair recognize direction position. As rather discover.
+MTG0008,CUST0156,Onboarding,2024-12-20,60,Positive,4,2,Building east only level get daughter. Message possible within indeed main represent.
+MTG0009,CUST0116,Onboarding,2024-03-09,90,Neutral,6,2,Someone around break.
+MTG0010,CUST0180,QBR,2024-10-07,45,Positive,6,5,Reality role there soldier respond certainly play increase. Arrive industry at college decide special.
+MTG0011,CUST0075,QBR,2024-12-17,45,Follow-up Required,3,4,Ground southern cell race scientist source. Something design father senior artist education. Imagine eat interest into important.
+MTG0012,CUST0139,Churn Risk Review,2024-12-21,60,Negative,4,4,War letter scientist image might maintain major education. Participant identify expect action.
+MTG0013,CUST0123,Upsell,2024-10-25,90,Neutral,6,2,Another process local feeling accept. Model specific research community. Risk herself operation our cause. Have left name thing exist avoid brother.
+MTG0014,CUST0109,Upsell,2024-01-07,30,Positive,3,0,Money best defense guess answer meet career. Since him network follow each attack must.
+MTG0015,CUST0172,Onboarding,2024-01-29,60,Negative,3,2,Activity item relate improve attention kind unit better. Hard sort hand pass contain dinner whatever. Experience executive large movie spring low.
+MTG0016,CUST0175,Onboarding,2024-05-08,30,Neutral,4,1,Media entire find. Choose thousand night experience.
+MTG0017,CUST0193,Demo,2024-10-04,60,Negative,2,4,Church summer lay rock explain. Sure bar company majority case. Allow main night lose.
+MTG0018,CUST0173,Onboarding,2024-10-14,90,Positive,4,5,At ago continue science relationship fact. Kid skill find long will share organization. Why project individual.
+MTG0019,CUST0171,Support Call,2024-01-25,90,Neutral,4,4,Generation include us fire brother special either.
+MTG0020,CUST0014,Churn Risk Review,2024-01-07,60,Positive,5,1,Nice city reveal notice forward onto.
+MTG0021,CUST0163,Churn Risk Review,2024-12-26,60,Negative,6,5,Service take speech night against. Role generation fear point. Author attorney finally do.
+MTG0022,CUST0155,Churn Risk Review,2024-04-10,45,Positive,3,5,Behavior hear owner everybody nor notice test. Live industry century it.
+MTG0023,CUST0020,Onboarding,2024-04-05,30,Positive,5,2,Want I old source nice. Include them north lay nor.
+MTG0024,CUST0143,Onboarding,2024-05-15,45,Neutral,4,0,Wish possible owner night start.
+MTG0025,CUST0085,Churn Risk Review,2024-08-26,45,Positive,4,4,During lawyer life skill trouble. Reveal TV after wide join fire. Somebody follow spring data mission five box term.
+MTG0026,CUST0014,Upsell,2024-11-16,60,Neutral,6,4,Nearly believe home candidate again understand toward. Across its no win data. Federal grow enough across tell stock.
+MTG0027,CUST0092,Churn Risk Review,2024-02-07,60,Neutral,3,4,Network movement else fire few. Report effort son culture treatment. Man simply meeting person.
+MTG0028,CUST0018,Onboarding,2024-09-15,90,Neutral,5,0,Stop drop hundred score learn. Thought now carry beautiful argue relate high. Star little walk in.
+MTG0029,CUST0090,Onboarding,2024-04-23,60,Positive,4,1,Federal south assume because writer.
+MTG0030,CUST0193,Upsell,2024-11-12,90,Follow-up Required,2,0,Away card physical industry. Soldier participant day sound affect garden indeed. Guess song upon share here spring yard. Cell bring positive night.
+MTG0031,CUST0172,Support Call,2024-06-26,45,Follow-up Required,6,4,Prepare small minute door key outside manage.
+MTG0032,CUST0063,Churn Risk Review,2024-01-21,60,Positive,2,3,Education each than religious. Again ready picture deal.
+MTG0033,CUST0066,Churn Risk Review,2024-10-03,60,Positive,6,2,Better design keep serious next. By happy music military. Leader affect present be.
+MTG0034,CUST0132,Support Call,2024-09-17,90,Positive,3,2,Wide because draw far. Security difference ready skill conference total these.
+MTG0035,CUST0132,Demo,2024-02-12,45,Follow-up Required,6,4,These government four billion investment company mention drive. Rule model relationship.
+MTG0036,CUST0002,Demo,2024-11-16,45,Neutral,3,5,Tree on anyone director cell rule meet. Time here image single majority up.
+MTG0037,CUST0109,Onboarding,2024-02-23,90,Neutral,2,5,Commercial something agreement how authority. Many short return clear mother hold major hold. Perform it final name writer policy.
+MTG0038,CUST0176,Demo,2024-03-19,90,Negative,2,0,Million impact figure writer send oil. Country politics industry Republican. Leave since price agreement great ground religious painting.
+MTG0039,CUST0019,Onboarding,2024-01-28,60,Neutral,6,1,Stand long teach trouble build but minute. Forward us always so.
+MTG0040,CUST0067,Support Call,2024-07-27,90,Neutral,5,2,Who knowledge floor beyond evening stock pay. Rate hear window use. How service worry admit use thing couple.
+MTG0041,CUST0005,Churn Risk Review,2024-07-18,30,Neutral,6,0,Society out physical time own leg move. Red bed bank agreement drug summer form. If month interest well.
+MTG0042,CUST0194,Demo,2024-10-26,30,Positive,6,0,Much me inside power however middle. Suffer position drop through machine billion.
+MTG0043,CUST0075,QBR,2024-12-17,30,Positive,5,3,Pm least billion our forget. Argue ready fine ask note down generation. Administration without ten hit.
+MTG0044,CUST0102,Demo,2024-12-04,90,Positive,3,1,Include watch use forget. Movement daughter hand enter.
+MTG0045,CUST0192,Upsell,2024-07-19,60,Follow-up Required,3,2,Although budget evidence performance direction garden. Gun note easy but many describe. Within her term relate glass rock.
+MTG0046,CUST0174,QBR,2024-11-27,30,Neutral,6,1,Million include project main employee year industry. Political wall book involve clear my. Loss why choose rich major receive.
+MTG0047,CUST0032,Demo,2024-01-22,90,Neutral,2,2,Apply anything factor relationship remain property though. Teacher result miss these school responsibility the surface. Staff successful improve everything at.
+MTG0048,CUST0054,Onboarding,2024-06-25,90,Follow-up Required,6,1,Girl on safe development red. Raise thing out than. Upon game nice tonight charge painting although.
+MTG0049,CUST0042,Onboarding,2024-04-04,60,Positive,3,5,Tree performance save really force toward. Maintain fly between watch current them. Town these some tough situation.
+MTG0050,CUST0146,Upsell,2024-01-28,90,Neutral,2,2,Election magazine scene family none difference.
+MTG0051,CUST0172,QBR,2024-02-04,30,Positive,6,3,Claim evening writer manager pay. Space doctor maybe deal free few nothing.
+MTG0052,CUST0085,Onboarding,2024-07-01,45,Positive,6,0,Various ball store during. Consider language meeting magazine order. Tend response get individual beat human learn resource.
+MTG0053,CUST0050,Support Call,2024-06-11,90,Positive,4,5,Hold she level billion but rock. Care low range by. Effect choice want administration.
+MTG0054,CUST0150,Upsell,2024-03-19,60,Negative,5,1,Term idea already wall hotel. Result billion recently because or number. Voice contain read seem.
+MTG0055,CUST0002,Onboarding,2024-06-09,45,Negative,5,2,High set TV today. Move site hospital put from attorney. Source receive then meeting party detail need.
+MTG0056,CUST0093,Churn Risk Review,2024-03-09,60,Follow-up Required,5,3,Month power candidate still cell. Artist bill court. Hold why property ground eye.
+MTG0057,CUST0092,Support Call,2024-06-05,30,Positive,6,0,Card despite deal half different military yes once. Walk answer degree attention police use. Such near information you.
+MTG0058,CUST0072,Upsell,2024-03-12,45,Positive,2,5,Bar century win community.
+MTG0059,CUST0020,Upsell,2024-01-10,30,Negative,6,3,Describe scene example. Drive thought cause develop debate. Necessary traditional world fly trip during far.
+MTG0060,CUST0197,Onboarding,2024-10-29,30,Neutral,6,4,Medical site someone know attention forget ball. Interest phone line her. Have human under floor bank. Our order number since choice.
+MTG0061,CUST0121,Onboarding,2024-11-30,60,Positive,6,5,They dark animal give. Card century listen.
+MTG0062,CUST0075,Support Call,2024-03-09,30,Positive,6,0,Grow dinner table reflect statement cultural customer. Rise body as development high. Defense west black.
+MTG0063,CUST0170,Upsell,2024-05-02,45,Negative,3,3,Vote act store eye happen. Ever real billion generation time law conference.
+MTG0064,CUST0041,Upsell,2024-04-01,45,Negative,5,2,Radio yard scene prove. Activity yeah offer green industry hold also. Wait statement energy college consider social southern.
+MTG0065,CUST0011,Support Call,2024-04-22,45,Positive,4,1,Hair ability today accept four study per. Performance rather though.
+MTG0066,CUST0011,Onboarding,2024-12-08,60,Positive,5,0,Support mother child later. Teach police population occur. Just lay school high energy wind red employee. East smile road plant buy social commercial.
+MTG0067,CUST0011,QBR,2024-11-28,30,Negative,6,5,Another ask relate others understand stock.
+MTG0068,CUST0071,Upsell,2024-05-14,45,Positive,5,2,Seat trade like rise approach others way single. Born note tree sea approach goal language.
+MTG0069,CUST0151,Demo,2024-11-30,60,Positive,3,4,Improve benefit certain add. Notice human personal customer service a lawyer. Coach process long.
+MTG0070,CUST0104,QBR,2024-06-29,90,Negative,6,0,Weight fire may his.
+MTG0071,CUST0129,Support Call,2024-03-12,45,Positive,6,5,Word news business instead. Pretty relate similar order. Why son choice.
+MTG0072,CUST0072,Onboarding,2024-04-18,45,Positive,6,5,Concern change section what player. Wife teacher series ability sister win. Glass society budget so table government relate.
+MTG0073,CUST0031,Onboarding,2024-12-04,90,Negative,2,3,Center resource accept compare community. Land every there art result wife evening.
+MTG0074,CUST0173,Support Call,2024-09-02,45,Neutral,5,0,Student claim bag rule first get market. In message region theory energy need. Reveal your do TV.
+MTG0075,CUST0063,Onboarding,2024-01-23,45,Positive,6,0,Town consumer know concern much character agency. White possible employee thing.
+MTG0076,CUST0147,Demo,2024-03-16,45,Positive,3,4,Beat instead gas drug exist five space. Wind difficult subject others. Pressure design sing support other program choose.
+MTG0077,CUST0104,Upsell,2024-11-02,30,Follow-up Required,4,0,Good down although audience avoid star how. Trouble not meeting such hear. Society show hope class business kitchen manage.
+MTG0078,CUST0056,Upsell,2024-08-17,90,Follow-up Required,3,1,Seat available cup improve above. Next present buy dinner. Adult cost any pattern.
+MTG0079,CUST0106,Onboarding,2024-11-03,45,Neutral,6,2,This less factor century. Visit want travel economy reason push.
+MTG0080,CUST0043,QBR,2024-12-17,90,Neutral,2,1,This customer break hold us. So finally safe.
+MTG0081,CUST0097,Onboarding,2024-07-16,30,Positive,6,4,Particular character your wall. Along wife ok prove meet collection. Man expect one low.
+MTG0082,CUST0176,Onboarding,2024-08-02,30,Positive,6,4,Experience week art. Medical Congress word condition. Level class front blue.
+MTG0083,CUST0010,Upsell,2024-09-29,30,Positive,3,4,Form price trip enter street arm. Own section air floor. Child toward say floor for owner.
+MTG0084,CUST0139,Churn Risk Review,2024-01-01,90,Neutral,4,0,Alone purpose skin side decision. Only should over different its improve future. Player lose me quite.
+MTG0085,CUST0179,Support Call,2024-09-28,45,Follow-up Required,5,3,Mind hear thousand film picture. Amount arm peace increase animal age.
+MTG0086,CUST0090,Churn Risk Review,2024-10-28,30,Neutral,4,3,Nation once sort almost music perhaps. Light test not more seem. Prove list take growth between direction.
+MTG0087,CUST0197,Demo,2024-04-29,60,Neutral,6,3,Risk option experience ability. Project drug mean general.
+MTG0088,CUST0066,Demo,2024-04-06,30,Neutral,2,4,Many series long after entire surface. Worker international rise. See fact customer prove rule involve.
+MTG0089,CUST0002,Churn Risk Review,2024-07-11,45,Neutral,4,3,Woman cover during value that call take analysis. Expect sense election catch per early.
+MTG0090,CUST0093,Onboarding,2024-02-24,90,Neutral,4,2,Less toward heart early population. Either likely line hair. Family move door car move data road.
+MTG0091,CUST0138,Upsell,2024-08-04,60,Neutral,5,1,Rate loss need spend attorney another case people. Family father ability those stuff position those. That wear cell themselves visit company.
+MTG0092,CUST0106,Upsell,2024-10-09,90,Positive,6,4,Upon heavy goal author. Leader market when fly.
+MTG0093,CUST0124,QBR,2024-05-09,60,Negative,5,5,Know see present open.
+MTG0094,CUST0036,Demo,2024-12-03,45,Neutral,3,0,This health color resource senior do although. Central least capital back. Toward tell bring matter.
+MTG0095,CUST0055,Support Call,2024-09-17,60,Negative,6,5,Assume capital suffer bag glass current attack. Recognize inside in.
+MTG0096,CUST0176,Demo,2024-12-27,45,Positive,2,0,Top she word could story this cold. Low teacher expert. Six most party star.
+MTG0097,CUST0038,Upsell,2024-08-29,90,Positive,4,1,Per inside successful cover professor.
+MTG0098,CUST0095,Upsell,2024-02-10,30,Negative,5,4,Image hour road particular cultural. Score form meet bit result debate actually eat.
+MTG0099,CUST0168,QBR,2024-09-23,30,Follow-up Required,3,5,Live parent coach he. May person support. Relate simple may.
+MTG0100,CUST0127,Demo,2024-08-12,45,Follow-up Required,6,2,Similar deep gun really call. Lawyer arm back least.
+MTG0101,CUST0050,Upsell,2024-01-18,45,Neutral,2,2,Realize from car most beyond partner police. Sense fact television.
+MTG0102,CUST0062,Demo,2024-12-01,45,Positive,4,3,Human level owner method. Fish past serve often. Court final young character while future safe.
+MTG0103,CUST0091,Support Call,2024-12-08,90,Neutral,6,0,Type beat effect begin fill idea message. Author term home assume pull.
+MTG0104,CUST0189,Demo,2024-12-26,30,Neutral,6,4,Produce job work mouth. From into Democrat professor thus fast effort. Always call until throughout miss measure.
+MTG0105,CUST0090,QBR,2024-06-26,45,Neutral,3,3,Gun language left catch plant. Sport mother describe. Him full model.
+MTG0106,CUST0104,Demo,2024-10-21,60,Positive,6,0,Impact woman visit appear indicate radio.
+MTG0107,CUST0144,Upsell,2024-02-07,60,Positive,2,4,Away serve reach machine ahead light early general. Deal range both news.
+MTG0108,CUST0066,Upsell,2024-10-02,60,Neutral,5,4,State attention student goal far moment have. Law he arm. Top better record sing speak.
+MTG0109,CUST0124,QBR,2024-05-04,90,Neutral,6,0,Relate organization level seat middle water measure. Best local card likely. Pattern follow south. Glass heart accept seem.
+MTG0110,CUST0124,QBR,2024-02-29,30,Positive,3,5,Shake music maybe true TV difference. Class government they kid coach. Politics direction bank everything piece forget poor.
+MTG0111,CUST0180,QBR,2024-04-27,90,Follow-up Required,6,4,Business keep week upon lot theory. Analysis life lot like ready of. My account why trouble alone adult peace.
+MTG0112,CUST0003,QBR,2024-12-24,45,Positive,5,5,Dog different able memory range.
+MTG0113,CUST0192,Demo,2024-06-24,45,Neutral,4,1,Role myself just why production.
+MTG0114,CUST0147,Onboarding,2024-05-17,45,Neutral,3,1,Wind project political value owner. Beyond recognize dog in eye color. Forget question could no fill tough about long. Improve shoulder significant.
+MTG0115,CUST0189,QBR,2024-05-03,45,Positive,3,4,Western network nature health weight. Nice far wide green hand for theory. Pull campaign put art these part. Receive nation clearly.
+MTG0116,CUST0092,Demo,2024-03-20,30,Follow-up Required,5,4,Marriage system wait long pattern police put.
+MTG0117,CUST0002,Demo,2024-10-04,90,Positive,4,3,Us history table place agree not available beautiful. Onto small smile behavior.
+MTG0118,CUST0148,Support Call,2024-05-20,45,Follow-up Required,6,2,Record friend from else benefit. Peace effect training green true show good record.
+MTG0119,CUST0102,Upsell,2024-04-23,45,Positive,5,3,Style central morning speak wonder. Guess factor girl.
+MTG0120,CUST0139,Upsell,2024-01-17,60,Positive,3,3,Mr American health purpose. Term join good strategy. Act before church arrive. Card anyone adult sometimes.
+MTG0121,CUST0031,Upsell,2024-12-23,90,Positive,2,0,Us sometimes want light support word statement night.
+MTG0122,CUST0173,Support Call,2024-04-17,30,Positive,6,2,Age check trouble phone baby space my.
+MTG0123,CUST0048,QBR,2024-10-07,45,Positive,6,2,Culture several movie mean. Smile pressure already fill out majority pull. Attack could guess.
+MTG0124,CUST0094,Support Call,2024-04-04,90,Positive,4,2,Teacher large radio available free paper Democrat. Picture step side sometimes him. Water information else choose oil different hotel.
+MTG0125,CUST0103,Support Call,2024-05-23,45,Neutral,6,5,Day end loss word store. Media talk main cost.
+MTG0126,CUST0059,Churn Risk Review,2024-02-21,60,Negative,6,3,Help drive huge. Instead service specific seek.
+MTG0127,CUST0098,Onboarding,2024-04-10,45,Neutral,2,1,Spring behind family room run leg bring notice.
+MTG0128,CUST0108,Onboarding,2024-09-12,60,Negative,4,2,Important perhaps democratic defense base life impact wife. Him fast have it knowledge. Responsibility hard reach step.
+MTG0129,CUST0144,Demo,2024-10-17,90,Positive,3,0,Congress less pull pass hard this.
+MTG0130,CUST0056,Support Call,2024-05-10,30,Neutral,4,2,Interest step PM meeting late still.
+MTG0131,CUST0093,Upsell,2024-07-03,60,Positive,5,0,Probably beat dog form own voice sure. Draw character figure.
+MTG0132,CUST0090,Upsell,2024-12-13,45,Neutral,6,1,Walk certain create future husband. Tv TV truth west point. Project should white shake.
+MTG0133,CUST0200,QBR,2024-05-25,60,Neutral,5,5,Street audience organization trade understand over. Seat factor edge prevent we senior.
+MTG0134,CUST0115,Support Call,2024-02-10,60,Neutral,3,1,All economic project perhaps peace. System fund take seek movement study. Score maybe staff real.
+MTG0135,CUST0164,Support Call,2024-06-21,90,Negative,2,0,Item foot network southern quality court. Course unit firm speak member.
+MTG0136,CUST0042,Onboarding,2024-06-24,60,Positive,4,5,Bag theory beautiful somebody win.
+MTG0137,CUST0069,Churn Risk Review,2024-11-05,90,Positive,5,2,Window this nothing onto front without address major. After send just.
+MTG0138,CUST0192,Upsell,2024-10-27,90,Neutral,3,0,Size author paper people of last quality. Along space none stop political. Fish seek compare less box law manager.
+MTG0139,CUST0033,Churn Risk Review,2024-04-30,60,Follow-up Required,2,1,Manage direction knowledge modern report hit. Military pattern fast total.
+MTG0140,CUST0043,Demo,2024-07-22,30,Positive,5,4,Identify stand strategy poor consider protect find. Worry school report be PM. Picture stock shake. Exactly nor one personal skin.
+MTG0141,CUST0014,Support Call,2024-01-14,30,Positive,6,1,Exist kind happen personal season. Hospital wish response improve sort.
+MTG0142,CUST0022,Support Call,2024-12-01,60,Positive,4,3,Pay physical probably control rock. Door idea become soldier create of lead. Three civil series newspaper store.
+MTG0143,CUST0161,Onboarding,2024-03-05,45,Positive,4,2,As executive view meeting single person structure. Want car number represent subject road yourself. Bag others specific think onto.
+MTG0144,CUST0122,Upsell,2024-08-27,60,Neutral,3,5,Particularly even series. History bill that situation.
+MTG0145,CUST0139,Upsell,2024-03-31,90,Neutral,6,3,Enter it vote accept charge leave. Might message sign however compare.
+MTG0146,CUST0135,Churn Risk Review,2024-11-23,60,Follow-up Required,5,4,Seat fund value foot away between week he. Analysis fund wide him size especially especially improve. Civil open common continue less.
+MTG0147,CUST0059,Support Call,2024-02-15,60,Positive,4,1,Cut artist concern question. Receive foreign often arm.
+MTG0148,CUST0078,Demo,2024-01-06,45,Positive,5,4,Either stuff per woman two start air. Step type picture professional serious often. Everything month sort far music less record. They particularly local adult.
+MTG0149,CUST0003,Support Call,2024-12-18,90,Positive,5,2,Red sort trip worry old body. Nice sing age occur cup. Amount western father true evidence authority. Leave seem sign down film.
+MTG0150,CUST0153,Demo,2024-04-28,60,Positive,6,3,Seat might specific popular involve trade face use. Hotel nearly project society doctor.
